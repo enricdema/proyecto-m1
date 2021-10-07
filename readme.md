@@ -29,6 +29,7 @@ Con el ejercicio se facilita un directorio data con la siguiente información:
 airlines, airports, cities, countries, routes.
 
 Deberás añadir la colección **users.json** que tendrá la siguiente estructura:
+```json
     [{
         "userId":1,
         "username":"name",
@@ -36,7 +37,7 @@ Deberás añadir la colección **users.json** que tendrá la siguiente estructur
         "rol":"user",
         "routes":[resultado de la búsqueda por rutas]
     }]
-
+```
 _El id puede será un número secuencial generado en el momento de registrar al usuario. No vendrá informado por el usuario._
 _El rol se asigna automáticamente_
 _El usuario administrador se escribe directamente en el fichero, no se dará de alta mediante endpoints_
