@@ -3,14 +3,14 @@ import Router from "express";
 userRoute= new Router();
 
 
-userRoute.route('api/user/:id')
-    .get(user); 
+userRoute.route('/user/:id')
+    .get(userController.getUser); 
 
-userRoute.route('api/user/register')
+userRoute.route('/user/register')
     .post(userController.register); 
 
 
-userRoute.route('api/user/login')
+userRoute.route('/user/login')
     .post(userController.login);
 
 
