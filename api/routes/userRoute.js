@@ -9,7 +9,6 @@ userRoute.route('/user/:id')
 userRoute.route('/user/register')
     .post(userController.register); 
 
-
 userRoute.route('/user/login')
     .post(userController.login);
 

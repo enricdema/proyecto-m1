@@ -1,2 +1,2 @@
 
-GET https://proyecto-m1.herokuapp.com/api/users/
+GET http://localhost:3000/api/fligthPaths?origin=BCN&destiny=CMN

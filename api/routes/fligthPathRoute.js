@@ -1,10 +1,11 @@
 import Router from "express";
+import flightPathController from '../controller/flightPathController.js'
 
-fligthPathRoute= new Router();
+const fligthPathRoute= Router();
 
 
 fligthPathRoute.route('/fligthPaths')
-    .get(flightPathController.getRoutes); 
+    .get(flightPathController.getFP); 
 
 
 export default fligthPathRoute;

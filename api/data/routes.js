@@ -1,4 +1,5 @@
-{
+export default [
+    {
     "airline_iata": "3O",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -8,11 +9,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "3O",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -22,11 +22,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "3O",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -36,11 +35,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "4U",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -50,11 +48,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "4U",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -64,11 +61,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "4U",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -78,11 +74,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "A3",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -92,11 +87,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -106,11 +100,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -120,11 +113,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "767",
-
-{
+    "320",
+    "319",
+    "767"
+    ]
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -134,11 +128,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -148,11 +141,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -162,12 +154,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "738",
-        "320",
+    "321",
+    "738",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -177,11 +169,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "73G"
+    "320",
+    "73G"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -191,11 +183,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "320",
-        "321",
-
-{
+    "738",
+    "320",
+    "321"
+    ]
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -205,11 +198,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "73G"
+    "320",
+    "73G"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -219,11 +212,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "738",
-
-{
+    "320",
+    "319",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -233,11 +227,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "738"
+    "320",
+    "738"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AC",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -247,11 +241,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AC",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -261,11 +254,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -275,11 +267,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -289,11 +280,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E70"
+    "E70"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -303,12 +293,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "321",
+    "320",
+    "319",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -318,11 +308,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -332,11 +321,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "CR7"
+    "CRJ",
+    "CR7"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -346,11 +335,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AH",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -360,12 +348,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "ATR",
-        "736",
+    "738",
+    "ATR",
+    "736"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AH",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -375,11 +363,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "736"
+    "736"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AP",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -389,11 +376,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -403,11 +389,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "340",
-        "343"
+    "340",
+    "343"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AT",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -417,11 +403,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73G"
+    "738",
+    "73G"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AT",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -431,11 +417,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73G",
-        "738"
+    "73G",
+    "738"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AT",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -445,11 +431,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AV",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -459,11 +444,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -473,11 +457,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -487,11 +471,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -501,11 +484,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -515,11 +497,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E75"
+    "E75"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -529,11 +510,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E75"
+    "E75"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -543,11 +523,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -557,11 +536,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -571,11 +549,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -585,11 +562,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E90",
-        "E70"
+    "E90",
+    "E70"
     ]
-},
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -599,11 +576,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "767",
-
-{
+    "320",
+    "319",
+    "767"
+    ]
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -613,11 +591,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BD",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -627,11 +604,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BT",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -641,11 +617,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73C",
-        "733"
+    "73C",
+    "733"
     ]
-},
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -655,11 +631,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -669,11 +644,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -683,11 +657,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -697,11 +670,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -711,11 +683,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -725,11 +696,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -739,11 +709,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -753,11 +722,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EI",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -767,11 +735,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EI",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -781,11 +748,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EI",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -795,11 +761,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -809,11 +774,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -823,11 +787,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -837,11 +800,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -851,11 +813,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -865,11 +826,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -879,11 +839,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -893,11 +852,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -907,11 +865,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -921,11 +878,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -935,11 +891,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -949,11 +904,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -963,11 +917,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -977,11 +930,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -991,11 +943,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1005,11 +956,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1019,11 +969,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1033,11 +982,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1047,11 +995,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1061,11 +1008,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1075,11 +1021,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1089,11 +1034,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1103,11 +1047,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1117,11 +1060,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1131,11 +1073,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1145,11 +1086,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1159,11 +1099,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1173,11 +1112,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1187,11 +1125,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1201,11 +1138,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1215,11 +1151,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1229,11 +1164,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1243,11 +1177,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1257,11 +1190,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1271,11 +1203,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1285,11 +1216,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1299,11 +1229,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1313,11 +1242,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1327,11 +1255,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1341,11 +1268,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1355,11 +1281,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "H9",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1369,11 +1294,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "AT7"
+    "AT7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "H9",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1383,11 +1307,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "AT7"
+    "AT7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HG",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1397,11 +1320,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "738"
+    "320",
+    "738"
     ]
-},
-{
+    },
+    {
     "airline_iata": "HV",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1411,11 +1334,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737",
-        "738"
+    "737",
+    "738"
     ]
-},
-{
+    },
+    {
     "airline_iata": "HV",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1425,11 +1348,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HV",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1439,11 +1361,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1453,11 +1374,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1467,11 +1387,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1481,11 +1400,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1495,11 +1413,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1509,11 +1426,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1523,11 +1440,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1537,11 +1453,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1551,11 +1466,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1565,11 +1479,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1579,11 +1492,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1593,11 +1505,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9",
-        "CR2"
+    "CR9",
+    "CR2"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1607,11 +1519,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1621,11 +1532,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1635,11 +1545,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738",
-        "73G"
+    "738",
+    "73G"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1649,11 +1559,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1663,11 +1572,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1677,11 +1585,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1691,11 +1598,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1705,12 +1611,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "738",
-        "320",
+    "321",
+    "738",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1720,11 +1626,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9",
-        "CR2"
+    "CR9",
+    "CR2"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1734,11 +1640,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1748,11 +1653,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1762,11 +1666,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1776,11 +1679,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1790,11 +1692,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1804,11 +1705,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "340"
+    "340"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1818,11 +1718,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1832,11 +1731,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "73G"
+    "320",
+    "73G"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1846,11 +1745,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1860,11 +1759,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1874,11 +1772,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1888,11 +1785,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1902,11 +1798,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1916,11 +1811,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E90",
-        "E70"
+    "E90",
+    "E70"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1930,11 +1825,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1944,11 +1838,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1958,11 +1851,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1972,11 +1864,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9",
-        "CR2"
+    "CR9",
+    "CR2"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -1986,11 +1878,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "767",
-
-{
+    "320",
+    "319",
+    "767"
+    ]
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2000,11 +1893,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2014,11 +1906,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2028,11 +1919,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2042,11 +1932,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2056,11 +1945,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320",
-        "321",
-
-{
+    "319",
+    "320",
+    "321"
+    ]
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2070,11 +1960,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2084,11 +1973,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2098,11 +1986,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2112,11 +1999,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2126,11 +2012,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2140,11 +2025,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2154,11 +2038,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2168,11 +2051,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9",
-        "CR2"
+    "CR9",
+    "CR2"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2182,11 +2065,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2196,11 +2078,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2210,11 +2091,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2224,11 +2104,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2238,11 +2117,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2252,11 +2130,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR2"
+    "CR2"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2266,11 +2143,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2280,11 +2157,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2294,11 +2170,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2308,11 +2183,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2322,11 +2196,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2336,11 +2209,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR2",
-        "CR9"
+    "CR2",
+    "CR9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2350,11 +2223,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "73G"
+    "320",
+    "73G"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2364,11 +2237,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2378,11 +2250,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2392,11 +2263,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2406,11 +2276,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2420,11 +2289,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2434,11 +2302,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763",
-        "320"
+    "763",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2448,12 +2316,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73G",
-        "CR9",
-        "738",
+    "73G",
+    "CR9",
+    "738"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2463,11 +2331,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "738",
-
-{
+    "320",
+    "319",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2477,11 +2346,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2491,11 +2359,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2505,11 +2372,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "738"
+    "320",
+    "738"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2519,11 +2386,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR2",
-        "CR9"
+    "CR2",
+    "CR9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2533,11 +2400,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR2"
+    "CR2"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2547,11 +2413,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IP",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2561,11 +2426,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IZ",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2575,11 +2439,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "753"
+    "753"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2589,11 +2452,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LG",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2603,11 +2465,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "DH4",
-        "ER4"
+    "DH4",
+    "ER4"
     ]
-},
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2617,12 +2479,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "733",
-        "735",
+    "320",
+    "733",
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2632,11 +2494,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2646,11 +2507,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2660,12 +2521,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321",
-        "319",
+    "320",
+    "321",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2675,11 +2536,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2689,11 +2550,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2703,11 +2563,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LO",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2717,11 +2576,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E95",
-        "734"
+    "E95",
+    "734"
     ]
-},
-{
+    },
+    {
     "airline_iata": "LS",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2731,11 +2590,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73H"
+    "738",
+    "73H"
     ]
-},
-{
+    },
+    {
     "airline_iata": "LS",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2745,11 +2604,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LS",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2759,11 +2617,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2773,11 +2630,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "AR1"
+    "AR1"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2787,11 +2643,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2801,11 +2656,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "LY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2815,11 +2670,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "757"
+    "763",
+    "757"
     ]
-},
-{
+    },
+    {
     "airline_iata": "MS",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2829,11 +2684,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NN",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2843,11 +2697,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OK",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2857,11 +2710,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "OS",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2871,11 +2724,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "320",
-        "738",
-
-{
+    "319",
+    "320",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "OU",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2885,11 +2739,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "PK",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2899,11 +2753,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PS",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2913,11 +2766,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "734",
-        "73N"
+    "734",
+    "73N"
     ]
-},
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2927,11 +2780,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "332"
+    "333",
+    "332"
     ]
-},
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2941,11 +2794,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QS",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2955,11 +2807,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QS",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2969,11 +2820,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "RJ",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2983,11 +2833,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "RO",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -2997,11 +2847,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73W"
+    "73W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "S4",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3011,11 +2860,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "100",
-        "320",
-
-{
+    "319",
+    "100",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "S4",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3025,11 +2875,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3039,11 +2888,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73H"
+    "738",
+    "73H"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3053,11 +2902,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "319"
+    "321",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3067,11 +2916,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3081,11 +2930,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73G",
-        "73H",
-        "73W",
-
-{
+    "73G",
+    "73H",
+    "73W"
+    ]
+    },
+    {
     "airline_iata": "SN",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3095,11 +2945,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733",
-        "319",
-        "320",
-
-{
+    "733",
+    "319",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3109,11 +2960,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3123,11 +2973,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3137,11 +2986,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3151,11 +2999,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3165,11 +3012,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3179,11 +3026,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TK",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3193,12 +3039,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "738",
+    "321",
+    "320",
+    "738"
     ]
-},
-{
+    },
+    {
     "airline_iata": "TP",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3208,11 +3054,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "100",
-        "ER4",
-        "319",
-
-{
+    "100",
+    "ER4",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "TP",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3222,11 +3069,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TS",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3236,11 +3082,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TU",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3250,12 +3095,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "735",
+    "320",
+    "319",
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3265,11 +3110,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3279,11 +3123,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3293,11 +3136,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3307,11 +3150,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3321,11 +3164,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3335,11 +3177,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3349,11 +3190,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3363,11 +3204,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3377,11 +3218,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3391,11 +3231,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3405,11 +3245,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3419,11 +3259,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3433,11 +3272,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3447,11 +3286,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3461,11 +3299,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3475,11 +3313,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3489,11 +3326,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3503,11 +3339,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "U6",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3517,11 +3353,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3531,11 +3366,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UN",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3545,11 +3379,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3559,11 +3392,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3573,11 +3405,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3587,11 +3418,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3601,11 +3431,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3615,11 +3444,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3629,11 +3457,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3643,11 +3470,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "E90"
+    "738",
+    "E90"
     ]
-},
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3657,11 +3484,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3671,11 +3497,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3685,11 +3510,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "738"
+    "E90",
+    "738"
     ]
-},
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3699,11 +3524,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3713,11 +3537,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3727,11 +3550,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3741,11 +3563,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3755,11 +3576,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3769,11 +3589,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3783,11 +3602,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3797,11 +3615,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3811,11 +3628,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3825,11 +3641,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3839,11 +3654,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3853,11 +3667,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3867,11 +3680,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3881,11 +3693,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3895,11 +3706,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3909,11 +3719,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3923,11 +3732,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3937,11 +3745,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3951,11 +3758,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3965,11 +3771,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3979,11 +3784,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -3993,11 +3797,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4007,11 +3810,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4021,11 +3823,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4035,11 +3836,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4049,11 +3849,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4063,11 +3862,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4077,11 +3875,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4091,11 +3888,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4105,11 +3901,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4119,11 +3915,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4133,11 +3928,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4147,11 +3941,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4161,11 +3954,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4175,11 +3967,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4189,11 +3980,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4203,11 +3993,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4217,11 +4006,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4231,11 +4019,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4245,11 +4032,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4259,11 +4045,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4273,11 +4058,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4287,11 +4071,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4301,11 +4084,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4315,11 +4097,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4329,11 +4110,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4343,11 +4123,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4357,11 +4137,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4371,11 +4150,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4385,11 +4163,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4399,11 +4176,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4413,11 +4189,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4427,11 +4202,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4441,11 +4215,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4455,11 +4228,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4469,11 +4241,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4483,11 +4254,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4497,11 +4267,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4511,11 +4280,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4525,11 +4293,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4539,11 +4306,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4553,11 +4320,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4567,11 +4333,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4581,11 +4346,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4595,11 +4359,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4609,11 +4372,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4623,11 +4385,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4637,11 +4398,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4651,11 +4411,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4665,11 +4424,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4679,11 +4437,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4693,11 +4450,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4707,11 +4463,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4721,11 +4476,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4735,11 +4489,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4749,11 +4502,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "734"
+    "734"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4763,11 +4515,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "ZB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -4777,11 +4529,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "5N",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4791,10 +4543,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "5N",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4804,10 +4556,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "5N",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4817,10 +4569,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "5N",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4830,12 +4582,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4845,12 +4595,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "321",
-        "320"
+    "319",
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4860,13 +4610,13 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "763",
-        "321",
-        "319",
+    "320",
+    "763",
+    "321",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4876,11 +4626,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "321"
+    "319",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4890,12 +4640,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "AH",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4905,12 +4653,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "736"
+    "736"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4920,12 +4666,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332",
-        "333"
+    "332",
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AT",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4935,12 +4680,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73G"
+    "738",
+    "73G"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AY",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4950,10 +4694,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AY",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4963,12 +4707,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4978,10 +4720,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -4991,12 +4733,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "32S",
-        "321"
+    "320",
+    "32S",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5006,12 +4748,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "763",
-        "320"
+    "321",
+    "763",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5021,11 +4763,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "321"
+    "319",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5035,10 +4777,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5048,11 +4790,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5062,10 +4804,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5075,12 +4817,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BT",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5090,11 +4831,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733",
-        "73C"
+    "733",
+    "73C"
     ]
-},
-{
+    },
+    {
     "airline_iata": "BT",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5104,12 +4845,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5119,12 +4858,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "CU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5134,12 +4871,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "CY",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5149,11 +4884,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "CY",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5163,12 +4898,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "IL9"
+    "321",
+    "320",
+    "IL9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5178,12 +4913,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "D9",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5193,10 +4926,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "D9",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5206,11 +4939,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "734",
-        "735"
+    "734",
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "D9",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5220,12 +4953,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5235,10 +4966,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5248,11 +4979,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "764",
-        "333"
+    "764",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5262,12 +4993,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "FB",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5277,10 +5006,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FB",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5290,10 +5019,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FB",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5303,12 +5032,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "FG",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5318,12 +5045,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "310"
+    "310"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5333,10 +5058,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5346,10 +5071,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5359,10 +5084,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5372,12 +5097,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "321",
-        "320"
+    "319",
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5387,10 +5112,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5400,11 +5125,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5414,12 +5139,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "A81",
-        "319",
-        "735"
+    "A81",
+    "319",
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5429,13 +5154,13 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "321",
-        "SU9",
+    "320",
+    "319",
+    "321",
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5445,11 +5170,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5459,10 +5184,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5472,11 +5197,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5486,11 +5211,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333",
-        "767"
+    "333",
+    "767"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5500,10 +5225,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5513,11 +5238,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333",
-        "767"
+    "333",
+    "767"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5527,12 +5252,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "319"
+    "321",
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5542,12 +5267,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333",
-        "332"
+    "333",
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5557,12 +5281,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "IR",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5572,12 +5294,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "722"
+    "722"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "JP",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5587,12 +5307,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CR2",
-        "319",
-        "CR9"
+    "CR2",
+    "319",
+    "CR9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "JU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5602,10 +5322,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-{
+    },
+    {
     "airline_iata": "JU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5615,12 +5335,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "KC",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5630,11 +5348,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "KC",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5644,12 +5362,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5659,10 +5375,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5672,12 +5388,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5687,10 +5401,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5700,12 +5414,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "KM",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5715,12 +5427,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "KQ",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5730,12 +5440,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "LO",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5745,12 +5453,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E95",
-        "E75",
-        "735"
+    "E95",
+    "E75",
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "LO",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5760,12 +5468,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5775,12 +5482,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "OK",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5790,12 +5495,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "32S",
-        "320",
-        "319"
+    "32S",
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "OK",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5805,10 +5510,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "OK",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5818,12 +5523,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "32S",
-        "319",
-        "320"
+    "32S",
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "OK",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5833,12 +5538,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OM",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5848,10 +5552,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-{
+    },
+    {
     "airline_iata": "OM",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5861,10 +5565,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-{
+    },
+    {
     "airline_iata": "OM",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5874,12 +5578,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "OV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5889,12 +5591,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CR9",
-        "E70"
+    "CR9",
+    "E70"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "R2",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5904,10 +5605,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-{
+    },
+    {
     "airline_iata": "R2",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5917,10 +5618,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-{
+    },
+    {
     "airline_iata": "R2",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5930,12 +5631,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "RO",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5945,12 +5644,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5960,11 +5657,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "736",
-        "73G"
+    "736",
+    "73G"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5974,11 +5671,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -5988,11 +5685,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "321"
+    "319",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6002,10 +5699,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6015,12 +5712,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "736",
-        "73H",
-        "73W"
+    "736",
+    "73H",
+    "73W"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6030,12 +5727,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6045,10 +5740,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6058,10 +5753,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6071,11 +5766,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6085,10 +5780,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6098,10 +5793,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6111,11 +5806,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6125,10 +5820,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6138,10 +5833,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6151,12 +5846,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "319",
-        "320"
+    "321",
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6166,10 +5861,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "736"
+    "736"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6179,12 +5874,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "SU9",
-        "319"
+    "320",
+    "SU9",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6194,12 +5889,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "763"
+    "321",
+    "320",
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6209,12 +5904,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "IL9",
-        "321"
+    "763",
+    "IL9",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6224,10 +5919,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6237,11 +5932,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6251,10 +5946,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6264,10 +5959,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6277,10 +5972,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6290,10 +5985,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6303,11 +5998,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6317,10 +6012,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6330,10 +6025,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6343,12 +6038,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "321"
+    "320",
+    "319",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6358,10 +6053,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6371,10 +6066,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6384,13 +6079,13 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "763",
-        "321",
-        "319",
+    "320",
+    "763",
+    "321",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6400,11 +6095,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6414,11 +6109,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6428,12 +6123,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "SU9",
-        "319"
+    "320",
+    "SU9",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6443,10 +6138,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6456,10 +6151,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6469,11 +6164,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332",
-        "333"
+    "332",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6483,10 +6178,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6496,10 +6191,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6509,10 +6204,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6522,10 +6217,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6535,11 +6230,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6549,10 +6244,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6562,11 +6257,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6576,12 +6271,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "763",
-        "320"
+    "321",
+    "763",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6591,11 +6286,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S",
-        "321"
+    "32S",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6605,11 +6300,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6619,11 +6314,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "321"
+    "319",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6633,10 +6328,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6646,12 +6341,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9",
-        "320",
-        "319"
+    "SU9",
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6661,11 +6356,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6675,10 +6370,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6688,10 +6383,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6701,10 +6396,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6714,11 +6409,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332",
-        "333"
+    "332",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6728,10 +6423,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6741,10 +6436,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6754,11 +6449,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6768,10 +6463,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6781,10 +6476,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6794,10 +6489,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6807,10 +6502,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6820,10 +6515,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6833,12 +6528,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "332",
-        "333"
+    "763",
+    "332",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6848,10 +6543,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6861,10 +6556,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6874,10 +6569,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6887,10 +6582,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6900,13 +6595,13 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "IL9",
-        "763",
+    "321",
+    "320",
+    "IL9",
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6916,10 +6611,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6929,10 +6624,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6942,11 +6637,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6956,11 +6651,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735",
-        "E95"
+    "735",
+    "E95"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6970,10 +6665,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6983,12 +6678,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "321",
-        "320"
+    "319",
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -6998,10 +6693,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7011,10 +6706,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7024,11 +6719,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7038,10 +6733,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7051,10 +6746,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7064,10 +6759,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7077,12 +6772,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9",
-        "320",
-        "319"
+    "SU9",
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7092,10 +6787,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7105,11 +6800,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7119,11 +6814,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7133,10 +6828,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7146,12 +6841,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "IL9"
+    "321",
+    "320",
+    "IL9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7161,10 +6856,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7174,13 +6869,13 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "321",
-        "SU9",
+    "320",
+    "319",
+    "321",
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7190,12 +6885,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "A81",
-        "319",
-        "735"
+    "A81",
+    "319",
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7205,12 +6900,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321",
-        "319"
+    "320",
+    "321",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7220,12 +6915,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR2",
-        "CR9",
-        "319"
+    "CR2",
+    "CR9",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7235,10 +6930,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7248,10 +6943,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7261,10 +6956,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7274,10 +6969,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7287,10 +6982,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7300,10 +6995,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7313,11 +7008,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7327,10 +7022,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7340,11 +7035,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7354,10 +7049,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7367,10 +7062,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7380,11 +7075,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7394,10 +7089,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7407,10 +7102,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7420,10 +7115,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7433,11 +7128,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9",
-        "319"
+    "SU9",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7447,11 +7142,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7461,11 +7156,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "SU9"
+    "319",
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7475,10 +7170,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "736"
+    "736"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7488,11 +7183,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9",
-        "319"
+    "SU9",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7502,11 +7197,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7516,12 +7211,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320",
-        "SU9"
+    "319",
+    "320",
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7531,11 +7226,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "333"
+    "763",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7545,11 +7240,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "763"
+    "333",
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7559,11 +7254,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7573,13 +7268,13 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "32S",
-        "321",
+    "320",
+    "319",
+    "32S",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7589,10 +7284,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7602,11 +7297,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "333"
+    "763",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7616,10 +7311,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7629,10 +7324,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7642,10 +7337,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7655,11 +7350,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "734",
-        "735"
+    "734",
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7669,10 +7364,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7682,11 +7377,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7696,10 +7391,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7709,10 +7404,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7722,11 +7417,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "SU9"
+    "319",
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7736,10 +7431,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7749,10 +7444,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7762,10 +7457,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7775,12 +7470,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "321"
+    "320",
+    "319",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7790,11 +7485,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7804,10 +7499,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "IL9"
+    "IL9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7817,11 +7512,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7831,11 +7526,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "SU9"
+    "320",
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7845,10 +7540,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7858,11 +7553,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "763"
+    "333",
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7872,10 +7567,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7885,12 +7580,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "SU9",
-        "320"
+    "319",
+    "SU9",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7900,10 +7595,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7913,10 +7608,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7926,10 +7621,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7939,10 +7634,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7952,11 +7647,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "763"
+    "333",
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7966,11 +7661,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7980,10 +7675,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -7993,12 +7688,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "319"
+    "321",
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8008,10 +7703,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8021,12 +7716,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9",
-        "320",
-        "319"
+    "SU9",
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8036,11 +7731,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "332"
+    "333",
+    "332"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8050,10 +7745,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8063,11 +7758,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8077,12 +7772,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E95",
-        "E75",
-        "735"
+    "E95",
+    "E75",
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8092,10 +7787,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8105,12 +7800,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UN",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8120,11 +7814,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744",
-        "743"
+    "744",
+    "743"
     ]
-},
-{
+    },
+    {
     "airline_iata": "UN",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8134,10 +7828,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-{
+    },
+    {
     "airline_iata": "UN",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8147,12 +7841,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8162,10 +7854,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8175,10 +7867,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8188,12 +7880,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-{
-
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8203,10 +7893,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8216,10 +7906,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8229,10 +7919,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8242,10 +7932,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8255,12 +7945,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733",
-        "734",
-        "735"
+    "733",
+    "734",
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8270,11 +7960,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8284,10 +7974,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8297,12 +7987,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8312,10 +8001,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8325,10 +8014,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8338,10 +8027,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8351,10 +8040,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8364,10 +8053,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8377,10 +8066,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -8390,11 +8079,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "T20",
-        "333"
+    "T20",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "5N",
     "airline_icao": null,
     "departure_airport_iata": "ARH",
@@ -8404,11 +8093,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "5N",
     "airline_icao": null,
     "departure_airport_iata": "MMK",
@@ -8418,11 +8106,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "5N",
     "airline_icao": null,
     "departure_airport_iata": "NSK",
@@ -8432,11 +8119,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "5N",
     "airline_icao": null,
     "departure_airport_iata": "SCW",
@@ -8446,11 +8132,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -8460,12 +8145,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320",
-        "321",
+    "319",
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -8475,11 +8160,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "763",
-        "321",
-
-{
+    "320",
+    "763",
+    "321"
+    ]
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "FRU",
@@ -8489,11 +8175,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "319"
+    "321",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "MRS",
@@ -8503,11 +8189,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AH",
     "airline_icao": null,
     "departure_airport_iata": "ALG",
@@ -8517,11 +8202,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "736"
+    "736"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "DEL",
@@ -8531,11 +8215,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332",
-        "333"
+    "332",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AT",
     "airline_icao": null,
     "departure_airport_iata": "CMN",
@@ -8545,11 +8229,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73G",
-        "738"
+    "73G",
+    "738"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AY",
     "airline_icao": null,
     "departure_airport_iata": "HEL",
@@ -8559,11 +8243,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AY",
     "airline_icao": null,
     "departure_airport_iata": "HEL",
@@ -8573,11 +8256,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "BLQ",
@@ -8587,11 +8269,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -8601,12 +8282,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "32S",
-        "321",
+    "320",
+    "32S",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -8616,12 +8297,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "763",
-        "320",
+    "321",
+    "763",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "FRU",
@@ -8631,11 +8312,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "319"
+    "321",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -8645,11 +8326,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -8659,11 +8339,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "SIP",
@@ -8673,11 +8353,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "VCE",
@@ -8687,11 +8366,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "BT",
     "airline_icao": null,
     "departure_airport_iata": "RIX",
@@ -8701,11 +8380,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733",
-        "73C"
+    "733",
+    "73C"
     ]
-},
-{
+    },
+    {
     "airline_iata": "BT",
     "airline_icao": null,
     "departure_airport_iata": "RIX",
@@ -8715,11 +8394,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -8729,11 +8407,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CU",
     "airline_icao": null,
     "departure_airport_iata": "HAV",
@@ -8743,11 +8420,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CY",
     "airline_icao": null,
     "departure_airport_iata": "LCA",
@@ -8757,11 +8433,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "CY",
     "airline_icao": null,
     "departure_airport_iata": "LCA",
@@ -8771,12 +8447,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "IL9",
+    "321",
+    "320",
+    "IL9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "URC",
@@ -8786,11 +8462,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "D9",
     "airline_icao": null,
     "departure_airport_iata": "MRV",
@@ -8800,11 +8475,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "D9",
     "airline_icao": null,
     "departure_airport_iata": "ROV",
@@ -8814,11 +8488,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "734",
-        "735"
+    "734",
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "D9",
     "airline_icao": null,
     "departure_airport_iata": "STW",
@@ -8828,11 +8502,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "IAD",
@@ -8842,11 +8515,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -8856,11 +8528,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -8870,11 +8541,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -8884,11 +8554,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FB",
     "airline_icao": null,
     "departure_airport_iata": "BOJ",
@@ -8898,11 +8567,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FB",
     "airline_icao": null,
     "departure_airport_iata": "SOF",
@@ -8912,11 +8580,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FB",
     "airline_icao": null,
     "departure_airport_iata": "SOF",
@@ -8926,11 +8593,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FG",
     "airline_icao": null,
     "departure_airport_iata": "KBL",
@@ -8940,11 +8606,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "310"
+    "310"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "DUS",
@@ -8954,11 +8619,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "HAM",
@@ -8968,11 +8632,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "IKT",
@@ -8982,11 +8645,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "KGD",
@@ -8996,12 +8658,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "321",
+    "320",
+    "319",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "KHV",
@@ -9011,11 +8673,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "KJA",
@@ -9025,11 +8686,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "LED",
@@ -9039,12 +8700,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "A81",
-        "319",
-        "735",
+    "A81",
+    "319",
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "LED",
@@ -9054,11 +8715,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "321",
-
-{
+    "320",
+    "319",
+    "321"
+    ]
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -9068,11 +8730,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -9082,11 +8744,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "OMS",
@@ -9096,11 +8757,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "PKC",
@@ -9110,11 +8771,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333",
-        "767"
+    "333",
+    "767"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "SXF",
@@ -9124,11 +8785,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "UUS",
@@ -9138,11 +8798,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333",
-        "767"
+    "333",
+    "767"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "VIE",
@@ -9152,12 +8812,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "319",
+    "321",
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "VVO",
@@ -9167,11 +8827,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333",
-        "332"
+    "333",
+    "332"
     ]
-},
-{
+    },
+    {
     "airline_iata": "HU",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -9181,11 +8841,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IR",
     "airline_icao": null,
     "departure_airport_iata": "IKA",
@@ -9195,11 +8854,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "722"
+    "722"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JP",
     "airline_icao": null,
     "departure_airport_iata": "LJU",
@@ -9209,11 +8867,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "CR9"
+    "319",
+    "CR9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "JU",
     "airline_icao": null,
     "departure_airport_iata": "BEG",
@@ -9223,11 +8881,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JU",
     "airline_icao": null,
     "departure_airport_iata": "BEG",
@@ -9237,11 +8894,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KC",
     "airline_icao": null,
     "departure_airport_iata": "ALA",
@@ -9251,11 +8907,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "KC",
     "airline_icao": null,
     "departure_airport_iata": "TSE",
@@ -9265,11 +8921,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -9279,11 +8934,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -9293,11 +8947,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -9307,11 +8960,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -9321,11 +8973,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KM",
     "airline_icao": null,
     "departure_airport_iata": "MLA",
@@ -9335,11 +8986,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KQ",
     "airline_icao": null,
     "departure_airport_iata": "DXB",
@@ -9349,11 +8999,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LO",
     "airline_icao": null,
     "departure_airport_iata": "WAW",
@@ -9363,12 +9012,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E95",
-        "E75",
-        "735",
+    "E95",
+    "E75",
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "LO",
     "airline_icao": null,
     "departure_airport_iata": "WAW",
@@ -9378,11 +9027,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -9392,11 +9041,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OK",
     "airline_icao": null,
     "departure_airport_iata": "KLV",
@@ -9406,12 +9054,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "32S",
-        "320",
-        "319",
+    "32S",
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "OK",
     "airline_icao": null,
     "departure_airport_iata": "KLV",
@@ -9421,11 +9069,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OK",
     "airline_icao": null,
     "departure_airport_iata": "PRG",
@@ -9435,12 +9082,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "32S",
-        "320",
+    "319",
+    "32S",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "OK",
     "airline_icao": null,
     "departure_airport_iata": "PRG",
@@ -9450,11 +9097,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "OM",
     "airline_icao": null,
     "departure_airport_iata": "TXL",
@@ -9464,11 +9111,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OM",
     "airline_icao": null,
     "departure_airport_iata": "ULN",
@@ -9478,11 +9124,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OM",
     "airline_icao": null,
     "departure_airport_iata": "ULN",
@@ -9492,11 +9137,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OV",
     "airline_icao": null,
     "departure_airport_iata": "TLL",
@@ -9506,11 +9150,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CR9",
-        "E70"
+    "CR9",
+    "E70"
     ]
-},
-{
+    },
+    {
     "airline_iata": "R2",
     "airline_icao": null,
     "departure_airport_iata": "IKT",
@@ -9520,11 +9164,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "R2",
     "airline_icao": null,
     "departure_airport_iata": "KHV",
@@ -9534,11 +9177,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "R2",
     "airline_icao": null,
     "departure_airport_iata": "KRR",
@@ -9548,11 +9190,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "RO",
     "airline_icao": null,
     "departure_airport_iata": "OTP",
@@ -9562,11 +9203,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "ARN",
@@ -9576,11 +9216,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "736",
-        "73G"
+    "736",
+    "73G"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "ARN",
@@ -9590,11 +9230,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "CPH",
@@ -9604,11 +9244,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "321"
+    "319",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "CPH",
@@ -9618,11 +9258,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "OSL",
@@ -9632,12 +9271,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "736",
-        "73H",
-        "73W",
+    "736",
+    "73H",
+    "73W"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "OSL",
@@ -9647,11 +9286,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "AAQ",
@@ -9661,11 +9299,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ABA",
@@ -9675,11 +9312,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "AER",
@@ -9689,11 +9325,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "AER",
@@ -9703,11 +9339,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "AGP",
@@ -9717,11 +9352,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -9731,11 +9365,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -9745,11 +9379,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ARH",
@@ -9759,11 +9392,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ARN",
@@ -9773,12 +9405,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "319",
-        "320",
+    "321",
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ARN",
@@ -9788,11 +9420,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73W",
-        "736"
+    "73W",
+    "736"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ASF",
@@ -9802,12 +9434,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "SU9",
-        "319",
+    "320",
+    "SU9",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ATH",
@@ -9817,12 +9449,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321",
-        "763",
+    "320",
+    "321",
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "AYT",
@@ -9832,12 +9464,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "IL9",
-        "321",
+    "763",
+    "IL9",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "BAX",
@@ -9847,11 +9479,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -9861,11 +9492,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "BEG",
@@ -9875,11 +9506,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "BEG",
@@ -9889,11 +9519,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "BEY",
@@ -9903,11 +9532,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "BKK",
@@ -9917,11 +9545,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "BLQ",
@@ -9931,11 +9558,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "BQS",
@@ -9945,11 +9572,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "BRU",
@@ -9959,11 +9585,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "BUD",
@@ -9973,12 +9598,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "321",
+    "320",
+    "319",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "CAI",
@@ -9988,11 +9613,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "CAN",
@@ -10002,11 +9626,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -10016,11 +9639,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "763",
-        "321",
-
-{
+    "320",
+    "763",
+    "321"
+    ]
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -10030,11 +9654,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "CEK",
@@ -10044,11 +9668,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "CPH",
@@ -10058,12 +9682,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "SU9",
-        "319",
+    "320",
+    "SU9",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "CPH",
@@ -10073,11 +9697,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "CUN",
@@ -10087,11 +9710,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "DEL",
@@ -10101,11 +9723,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332",
-        "333"
+    "332",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "DNK",
@@ -10115,11 +9737,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "DOK",
@@ -10129,11 +9750,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "DOK",
@@ -10143,11 +9763,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "DRS",
@@ -10157,11 +9776,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "DUS",
@@ -10171,11 +9789,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "DXB",
@@ -10185,11 +9803,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "EVN",
@@ -10199,11 +9816,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -10213,12 +9830,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "763",
-        "320",
+    "321",
+    "763",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -10228,11 +9845,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "32S"
+    "321",
+    "32S"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -10242,11 +9859,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "FRU",
@@ -10256,11 +9873,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "319"
+    "321",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "GDZ",
@@ -10270,11 +9887,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "GOJ",
@@ -10284,12 +9900,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9",
-        "320",
-        "319",
+    "SU9",
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "GVA",
@@ -10299,11 +9915,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "GYD",
@@ -10313,11 +9929,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "HAJ",
@@ -10327,11 +9942,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "HAM",
@@ -10341,11 +9955,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "HAN",
@@ -10355,11 +9968,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332",
-        "333"
+    "332",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "HAV",
@@ -10369,11 +9982,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "HEL",
@@ -10383,11 +9995,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "HEL",
@@ -10397,11 +10008,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -10411,11 +10022,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "HRG",
@@ -10425,11 +10035,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "HRK",
@@ -10439,11 +10048,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "HTA",
@@ -10453,11 +10061,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "IAD",
@@ -10467,11 +10074,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -10481,12 +10087,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "332",
-        "333",
+    "763",
+    "332",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -10496,11 +10102,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "IKA",
@@ -10510,11 +10115,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "IKT",
@@ -10524,11 +10128,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "IKT",
@@ -10538,11 +10141,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "IST",
@@ -10552,11 +10154,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "IL9",
-        "321",
-        "320",
-
-{
+    "IL9",
+    "321",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -10566,11 +10169,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -10580,11 +10182,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KBP",
@@ -10594,11 +10195,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KBP",
@@ -10608,11 +10209,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735",
-        "E95"
+    "735",
+    "E95"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KEJ",
@@ -10622,11 +10223,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KGD",
@@ -10636,12 +10236,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "321",
+    "320",
+    "319",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KHV",
@@ -10651,11 +10251,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KHV",
@@ -10665,11 +10264,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KJA",
@@ -10679,11 +10277,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KLV",
@@ -10693,11 +10291,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KLV",
@@ -10707,11 +10304,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KRK",
@@ -10721,11 +10317,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KRR",
@@ -10735,12 +10330,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9",
-        "320",
-        "319",
+    "SU9",
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KRR",
@@ -10750,11 +10345,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KUF",
@@ -10764,11 +10358,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KZN",
@@ -10778,11 +10372,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -10792,11 +10386,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "LCA",
@@ -10806,12 +10399,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "IL9",
+    "321",
+    "320",
+    "IL9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "LCA",
@@ -10821,11 +10414,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "LED",
@@ -10835,11 +10427,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "321",
-
-{
+    "320",
+    "319",
+    "321"
+    ]
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "LED",
@@ -10849,11 +10442,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "A81",
-        "319"
+    "A81",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -10863,12 +10456,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321",
-        "319",
+    "320",
+    "321",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "LJU",
@@ -10878,12 +10471,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9",
-        "319",
-        "CR2",
+    "CR9",
+    "319",
+    "CR2"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -10893,11 +10486,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "MLA",
@@ -10907,11 +10499,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "MLE",
@@ -10921,11 +10512,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "MMK",
@@ -10935,11 +10525,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "MRV",
@@ -10949,11 +10538,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "MRV",
@@ -10963,11 +10551,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "MSQ",
@@ -10977,11 +10564,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -10991,11 +10578,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -11005,11 +10591,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -11019,11 +10605,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "NBC",
@@ -11033,11 +10618,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "NCE",
@@ -11047,11 +10631,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "NJC",
@@ -11061,11 +10645,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -11075,11 +10658,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "NSK",
@@ -11089,11 +10671,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ODS",
@@ -11103,11 +10684,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "SU9"
+    "319",
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "OMS",
@@ -11117,11 +10698,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "OSL",
@@ -11131,11 +10712,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "SU9"
+    "319",
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "OSL",
@@ -11145,11 +10726,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "736"
+    "736"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "OTP",
@@ -11159,11 +10739,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9",
-        "319"
+    "SU9",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "OVB",
@@ -11173,11 +10753,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "PEE",
@@ -11187,12 +10767,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320",
-        "SU9",
+    "319",
+    "320",
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -11202,11 +10782,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "333"
+    "763",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "PKC",
@@ -11216,11 +10796,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "763"
+    "333",
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "PRG",
@@ -11230,11 +10810,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "PRG",
@@ -11244,12 +10824,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "320",
-        "321",
+    "319",
+    "320",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "PUJ",
@@ -11259,11 +10839,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -11273,11 +10852,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "333"
+    "763",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "REN",
@@ -11287,11 +10866,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "RIX",
@@ -11301,11 +10879,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "RIX",
@@ -11315,11 +10892,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ROV",
@@ -11329,11 +10905,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "734",
-        "735"
+    "734",
+    "735"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SCW",
@@ -11343,11 +10919,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SGC",
@@ -11357,11 +10932,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SGN",
@@ -11371,11 +10946,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SIP",
@@ -11385,11 +10959,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SOF",
@@ -11399,11 +10972,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "SU9"
+    "319",
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SOF",
@@ -11413,11 +10986,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "STR",
@@ -11427,11 +10999,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "STW",
@@ -11441,11 +11012,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVX",
@@ -11455,12 +11025,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "321",
+    "320",
+    "319",
+    "321"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SXF",
@@ -11470,11 +11040,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "TAS",
@@ -11484,11 +11054,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "IL9"
+    "IL9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "TIV",
@@ -11498,11 +11067,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "TJM",
@@ -11512,11 +11081,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "SU9"
+    "320",
+    "SU9"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "TLL",
@@ -11526,11 +11095,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "TLV",
@@ -11540,11 +11108,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "333"
+    "763",
+    "333"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "TOF",
@@ -11554,11 +11122,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "UFA",
@@ -11568,12 +11135,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "SU9",
-        "320",
+    "319",
+    "SU9",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ULN",
@@ -11583,11 +11150,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ULN",
@@ -11597,11 +11163,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "URC",
@@ -11611,11 +11176,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "UUD",
@@ -11625,11 +11189,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "UUS",
@@ -11639,11 +11202,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "763"
+    "333",
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "VCE",
@@ -11653,11 +11216,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "VDA",
@@ -11667,11 +11230,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "VIE",
@@ -11681,12 +11243,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321",
-        "319",
+    "320",
+    "321",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "VNO",
@@ -11696,11 +11258,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "VOG",
@@ -11710,12 +11271,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "SU9",
-        "319",
+    "320",
+    "SU9",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "VVO",
@@ -11725,11 +11286,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "332"
+    "333",
+    "332"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "VVO",
@@ -11739,11 +11300,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "WAW",
@@ -11753,11 +11313,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "WAW",
@@ -11767,12 +11327,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E95",
-        "735",
-        "E75",
+    "E95",
+    "735",
+    "E75"
     ]
-},
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ZAG",
@@ -11782,11 +11342,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "ZRH",
@@ -11796,11 +11355,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-{
+    },
+    {
     "airline_iata": "UN",
     "airline_icao": null,
     "departure_airport_iata": "HRG",
@@ -11810,12 +11369,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744",
-        "743"
+    "744",
+    "743"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UN",
     "airline_icao": null,
     "departure_airport_iata": "PFO",
@@ -11825,11 +11383,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UN",
     "airline_icao": null,
     "departure_airport_iata": "SSH",
@@ -11839,11 +11396,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "AGP",
@@ -11853,11 +11409,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -11867,11 +11422,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -11881,11 +11435,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "DNK",
@@ -11895,11 +11448,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "DOK",
@@ -11909,11 +11461,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "DOK",
@@ -11923,11 +11474,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "HRK",
@@ -11937,11 +11487,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "KBP",
@@ -11951,12 +11500,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "734",
-        "735",
-        "733"
+    "734",
+    "735",
+    "733"
     ]
-},
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "KBP",
@@ -11966,11 +11515,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "ODS",
@@ -11980,11 +11529,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "SU9"
+    "SU9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "SIP",
@@ -11994,11 +11542,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "ABA",
@@ -12008,11 +11555,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "AER",
@@ -12022,11 +11568,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "BQS",
@@ -12036,11 +11581,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "HTA",
@@ -12050,11 +11594,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "KHV",
@@ -12064,11 +11607,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "UUD",
@@ -12078,11 +11620,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "T20"
+    "T20"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "VVO",
@@ -12092,11 +11633,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "T20"
+    "333",
+    "T20"
     ]
-},
-{
+    },
+    {
     "airline_iata": "3O",
     "airline_icao": null,
     "departure_airport_iata": "CMN",
@@ -12106,11 +11647,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "3O",
     "airline_icao": null,
     "departure_airport_iata": "NDR",
@@ -12120,11 +11660,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "3O",
     "airline_icao": null,
     "departure_airport_iata": "TNG",
@@ -12134,11 +11673,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "4U",
     "airline_icao": null,
     "departure_airport_iata": "CGN",
@@ -12148,11 +11686,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "4U",
     "airline_icao": null,
     "departure_airport_iata": "HAJ",
@@ -12162,11 +11699,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "4U",
     "airline_icao": null,
     "departure_airport_iata": "STR",
@@ -12176,11 +11712,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "A3",
     "airline_icao": null,
     "departure_airport_iata": "ATH",
@@ -12190,11 +11725,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -12204,11 +11738,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -12218,11 +11751,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "767",
-        "320",
-
-{
+    "319",
+    "767",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "MIA",
@@ -12232,11 +11766,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "DUS",
@@ -12246,11 +11779,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "738",
-        "320"
-
-{
+    "321",
+    "738",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "HAM",
@@ -12260,12 +11794,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "73G"
+    "320",
+    "73G"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "PMI",
@@ -12275,11 +11808,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "320",
-        "321",
-
-{
+    "738",
+    "320",
+    "321"
+    ]
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "STR",
@@ -12289,12 +11823,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "73G"
+    "320",
+    "73G"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "TXL",
@@ -12304,11 +11837,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "738",
-
-{
+    "320",
+    "319",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "VIE",
@@ -12318,12 +11852,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "738"
+    "320",
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AC",
     "airline_icao": null,
     "departure_airport_iata": "YUL",
@@ -12333,11 +11866,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AC",
     "airline_icao": null,
     "departure_airport_iata": "YYZ",
@@ -12347,11 +11879,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "ATL",
@@ -12361,11 +11892,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "BOD",
@@ -12375,11 +11905,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E70"
+    "E70"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -12389,11 +11918,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "319"
-
-{
+    "321",
+    "320",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -12403,11 +11933,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "LYS",
@@ -12417,12 +11946,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "CR7"
+    "CRJ",
+    "CR7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "ORY",
@@ -12432,11 +11960,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AH",
     "airline_icao": null,
     "departure_airport_iata": "ALG",
@@ -12446,11 +11973,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "ATR",
-        "736"
-
-{
+    "738",
+    "ATR",
+    "736"
+    ]
+    },
+    {
     "airline_iata": "AH",
     "airline_icao": null,
     "departure_airport_iata": "ORN",
@@ -12460,11 +11988,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "736"
+    "736"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AP",
     "airline_icao": null,
     "departure_airport_iata": "VCE",
@@ -12474,11 +12001,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AR",
     "airline_icao": null,
     "departure_airport_iata": "EZE",
@@ -12488,12 +12014,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "340",
-        "343"
+    "340",
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AT",
     "airline_icao": null,
     "departure_airport_iata": "CMN",
@@ -12503,12 +12028,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73G"
+    "738",
+    "73G"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AT",
     "airline_icao": null,
     "departure_airport_iata": "TNG",
@@ -12518,12 +12042,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73G",
-        "738"
+    "73G",
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AT",
     "airline_icao": null,
     "departure_airport_iata": "TNG",
@@ -12533,11 +12056,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AV",
     "airline_icao": null,
     "departure_airport_iata": "BOG",
@@ -12547,11 +12069,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AY",
     "airline_icao": null,
     "departure_airport_iata": "HEL",
@@ -12561,12 +12082,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -12576,11 +12096,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "LIN",
@@ -12590,11 +12109,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E75"
+    "E75"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "LIN",
@@ -12604,11 +12122,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E75"
+    "E75"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "MAH",
@@ -12618,11 +12135,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "PMI",
@@ -12632,11 +12148,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "TFN",
@@ -12646,11 +12161,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "VCE",
@@ -12660,11 +12174,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -12674,11 +12187,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "LCY",
@@ -12688,12 +12200,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E90",
-        "E70"
+    "E90",
+    "E70"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -12703,11 +12214,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "767",
-        "320",
-
-{
+    "319",
+    "767",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "MIA",
@@ -12717,11 +12229,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BD",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -12731,11 +12242,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BT",
     "airline_icao": null,
     "departure_airport_iata": "RIX",
@@ -12745,12 +12255,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73C",
-        "733"
+    "73C",
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ATL",
@@ -12760,11 +12269,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -12774,11 +12282,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DY",
     "airline_icao": null,
     "departure_airport_iata": "ARN",
@@ -12788,11 +12295,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DY",
     "airline_icao": null,
     "departure_airport_iata": "BGO",
@@ -12802,11 +12308,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DY",
     "airline_icao": null,
     "departure_airport_iata": "CPH",
@@ -12816,11 +12321,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DY",
     "airline_icao": null,
     "departure_airport_iata": "GOT",
@@ -12830,11 +12334,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DY",
     "airline_icao": null,
     "departure_airport_iata": "HEL",
@@ -12844,11 +12347,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DY",
     "airline_icao": null,
     "departure_airport_iata": "OSL",
@@ -12858,11 +12360,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EI",
     "airline_icao": null,
     "departure_airport_iata": "BFS",
@@ -12872,11 +12373,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EI",
     "airline_icao": null,
     "departure_airport_iata": "DUB",
@@ -12886,11 +12386,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EI",
     "airline_icao": null,
     "departure_airport_iata": "ORK",
@@ -12900,11 +12399,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "DXB",
@@ -12914,11 +12412,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "ACE",
@@ -12928,11 +12425,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "AGP",
@@ -12942,11 +12438,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "ALC",
@@ -12956,11 +12451,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BGY",
@@ -12970,11 +12464,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BIO",
@@ -12984,11 +12477,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BUD",
@@ -12998,11 +12490,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "BVA",
@@ -13012,11 +12503,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "CIA",
@@ -13026,11 +12516,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "CRL",
@@ -13040,11 +12529,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "DUB",
@@ -13054,11 +12542,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "EDI",
@@ -13068,11 +12555,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "EMA",
@@ -13082,11 +12568,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "FMM",
@@ -13096,11 +12581,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "FUE",
@@ -13110,11 +12594,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "IBZ",
@@ -13124,11 +12607,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "LBA",
@@ -13138,11 +12620,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "LBC",
@@ -13152,11 +12633,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "LPA",
@@ -13166,11 +12646,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "LPL",
@@ -13180,11 +12659,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "MAH",
@@ -13194,11 +12672,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "NYO",
@@ -13208,11 +12685,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "OPO",
@@ -13222,11 +12698,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "OVD",
@@ -13236,11 +12711,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "PIK",
@@ -13250,11 +12724,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "PMI",
@@ -13264,11 +12737,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "POZ",
@@ -13278,11 +12750,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "RYG",
@@ -13292,11 +12763,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "SCQ",
@@ -13306,11 +12776,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "SDR",
@@ -13320,11 +12789,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "STN",
@@ -13334,11 +12802,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "SVQ",
@@ -13348,11 +12815,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "TFS",
@@ -13362,11 +12828,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "TRS",
@@ -13376,11 +12841,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "TSF",
@@ -13390,11 +12854,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "VLL",
@@ -13404,11 +12867,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "VNO",
@@ -13418,11 +12880,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "WMI",
@@ -13432,11 +12893,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FR",
     "airline_icao": null,
     "departure_airport_iata": "XRY",
@@ -13446,11 +12906,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FV",
     "airline_icao": null,
     "departure_airport_iata": "LED",
@@ -13460,11 +12919,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "H9",
     "airline_icao": null,
     "departure_airport_iata": "BJZ",
@@ -13474,11 +12932,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "AT7"
+    "AT7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "H9",
     "airline_icao": null,
     "departure_airport_iata": "MLN",
@@ -13488,11 +12945,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "AT7"
+    "AT7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HG",
     "airline_icao": null,
     "departure_airport_iata": "VIE",
@@ -13502,12 +12958,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "738"
+    "320",
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HV",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -13517,12 +12972,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737",
-        "738"
+    "737",
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HV",
     "airline_icao": null,
     "departure_airport_iata": "EIN",
@@ -13532,11 +12986,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HV",
     "airline_icao": null,
     "departure_airport_iata": "RTM",
@@ -13546,11 +12999,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "AAL",
@@ -13560,11 +13012,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "ACE",
@@ -13574,11 +13025,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "AGP",
@@ -13588,11 +13038,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "ALC",
@@ -13602,11 +13051,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "AMM",
@@ -13616,12 +13064,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -13631,11 +13078,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "ARN",
@@ -13645,11 +13091,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "ATH",
@@ -13659,11 +13104,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BES",
@@ -13673,11 +13117,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BIO",
@@ -13687,11 +13130,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BLQ",
@@ -13701,12 +13143,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9",
-        "CR2"
+    "CR9",
+    "CR2"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BOD",
@@ -13716,11 +13157,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BRU",
@@ -13730,11 +13170,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "CMN",
@@ -13744,12 +13183,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738",
-        "73G"
+    "738",
+    "73G"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "CPH",
@@ -13759,11 +13197,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "CWL",
@@ -13773,11 +13210,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "DBV",
@@ -13787,11 +13223,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "DME",
@@ -13801,11 +13236,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "DUS",
@@ -13815,11 +13249,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "738",
-        "320"
-
-{
+    "321",
+    "738",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "EAS",
@@ -13829,12 +13264,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR2",
-        "CR9"
+    "CR2",
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "EDI",
@@ -13844,11 +13278,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -13858,11 +13291,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "FLR",
@@ -13872,11 +13304,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "GOA",
@@ -13886,11 +13317,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "GRQ",
@@ -13900,11 +13330,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "GRU",
@@ -13914,11 +13343,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "340"
+    "340"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "GRX",
@@ -13928,11 +13356,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "HAM",
@@ -13942,12 +13369,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "73G"
+    "320",
+    "73G"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "HEL",
@@ -13957,12 +13383,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "IBZ",
@@ -13972,11 +13397,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -13986,11 +13410,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "KBP",
@@ -14000,11 +13423,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "LCG",
@@ -14014,11 +13436,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "LCY",
@@ -14028,12 +13449,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E90",
-        "E70"
+    "E90",
+    "E70"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "LDE",
@@ -14043,11 +13463,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "LED",
@@ -14057,11 +13476,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "LEI",
@@ -14071,11 +13489,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "LEN",
@@ -14085,12 +13502,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9",
-        "CR2"
+    "CR9",
+    "CR2"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -14100,11 +13516,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "767",
-        "320",
-
-{
+    "319",
+    "767",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "LIL",
@@ -14114,11 +13531,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "LIS",
@@ -14128,11 +13544,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "LPA",
@@ -14142,11 +13557,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "LYS",
@@ -14156,11 +13570,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -14170,11 +13583,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321",
-        "319",
-
-{
+    "320",
+    "321",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "MAH",
@@ -14184,11 +13598,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "MIA",
@@ -14198,11 +13611,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "MLA",
@@ -14212,11 +13624,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "MRS",
@@ -14226,11 +13637,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -14240,11 +13650,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -14254,11 +13663,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "NAP",
@@ -14268,11 +13676,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "NCE",
@@ -14282,12 +13689,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9",
-        "CR2"
+    "CR9",
+    "CR2"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "NUE",
@@ -14297,11 +13703,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "ORY",
@@ -14311,11 +13716,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "OVD",
@@ -14325,11 +13729,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "PMI",
@@ -14339,11 +13742,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "PMO",
@@ -14353,11 +13755,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "PNA",
@@ -14367,11 +13768,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR2"
+    "CR2"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "PRG",
@@ -14381,12 +13781,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "PSA",
@@ -14396,11 +13795,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "RAK",
@@ -14410,11 +13808,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "SCQ",
@@ -14424,11 +13821,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "SDR",
@@ -14438,11 +13834,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "SLM",
@@ -14452,12 +13847,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR2",
-        "CR9"
+    "CR2",
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "STR",
@@ -14467,12 +13861,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "73G"
+    "320",
+    "73G"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "SVG",
@@ -14482,11 +13875,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "SVQ",
@@ -14496,11 +13888,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "SXB",
@@ -14510,11 +13901,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "TFN",
@@ -14524,11 +13914,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "TLS",
@@ -14538,11 +13927,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "TLV",
@@ -14552,12 +13940,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763",
-        "320"
+    "763",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "TNG",
@@ -14567,11 +13954,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73G",
-        "CR9",
-        "738"
-
-{
+    "73G",
+    "CR9",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "TXL",
@@ -14581,11 +13969,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "738",
-
-{
+    "320",
+    "319",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "VCE",
@@ -14595,11 +13984,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "VGO",
@@ -14609,11 +13997,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "VIE",
@@ -14623,12 +14010,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "738"
+    "320",
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "VLC",
@@ -14638,12 +14024,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR2",
-        "CR9"
+    "CR2",
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "VLL",
@@ -14653,11 +14038,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR2"
+    "CR2"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "ZRH",
@@ -14667,11 +14051,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IP",
     "airline_icao": null,
     "departure_airport_iata": "ACE",
@@ -14681,11 +14064,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IZ",
     "airline_icao": null,
     "departure_airport_iata": "TLV",
@@ -14695,11 +14077,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "753"
+    "753"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -14709,11 +14090,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LG",
     "airline_icao": null,
     "departure_airport_iata": "LUX",
@@ -14723,12 +14103,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "DH4",
-        "ER4"
+    "DH4",
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "DUS",
@@ -14738,11 +14117,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "733",
-        "735"
-
-{
+    "320",
+    "733",
+    "735"
+    ]
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "EWR",
@@ -14752,11 +14132,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -14766,12 +14145,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -14781,12 +14159,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "319"
+    "321",
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "TXL",
@@ -14796,12 +14173,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "YUL",
@@ -14811,11 +14187,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "YYZ",
@@ -14825,11 +14200,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LO",
     "airline_icao": null,
     "departure_airport_iata": "WAW",
@@ -14839,12 +14213,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E95",
-        "734"
+    "E95",
+    "734"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LS",
     "airline_icao": null,
     "departure_airport_iata": "GLA",
@@ -14854,12 +14227,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73H"
+    "738",
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LS",
     "airline_icao": null,
     "departure_airport_iata": "LBA",
@@ -14869,11 +14241,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LS",
     "airline_icao": null,
     "departure_airport_iata": "MAN",
@@ -14883,11 +14254,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "BSL",
@@ -14897,11 +14267,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "AR1"
+    "AR1"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "GVA",
@@ -14911,11 +14280,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "ZRH",
@@ -14925,12 +14293,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LY",
     "airline_icao": null,
     "departure_airport_iata": "TLV",
@@ -14940,12 +14307,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "757"
+    "763",
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MS",
     "airline_icao": null,
     "departure_airport_iata": "CAI",
@@ -14955,11 +14321,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NN",
     "airline_icao": null,
     "departure_airport_iata": "DME",
@@ -14969,11 +14334,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OK",
     "airline_icao": null,
     "departure_airport_iata": "PRG",
@@ -14983,12 +14347,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OS",
     "airline_icao": null,
     "departure_airport_iata": "VIE",
@@ -14998,11 +14361,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "738",
-        "319",
-
-{
+    "320",
+    "738",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "OU",
     "airline_icao": null,
     "departure_airport_iata": "ZAG",
@@ -15012,12 +14376,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PK",
     "airline_icao": null,
     "departure_airport_iata": "LHE",
@@ -15027,11 +14390,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PS",
     "airline_icao": null,
     "departure_airport_iata": "KBP",
@@ -15041,12 +14403,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "734",
-        "73N"
+    "734",
+    "73N"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "DOH",
@@ -15056,12 +14417,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "332"
+    "333",
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "PHL",
@@ -15071,11 +14431,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QS",
     "airline_icao": null,
     "departure_airport_iata": "PRG",
@@ -15085,11 +14444,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QS",
     "airline_icao": null,
     "departure_airport_iata": "VLC",
@@ -15099,11 +14457,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "RJ",
     "airline_icao": null,
     "departure_airport_iata": "AMM",
@@ -15113,12 +14470,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "RO",
     "airline_icao": null,
     "departure_airport_iata": "OTP",
@@ -15128,11 +14484,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73W"
+    "73W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "S4",
     "airline_icao": null,
     "departure_airport_iata": "LIS",
@@ -15142,11 +14497,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "100",
-        "320",
-        "319",
-
-{
+    "100",
+    "320",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "S4",
     "airline_icao": null,
     "departure_airport_iata": "OPO",
@@ -15156,11 +14512,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "ARN",
@@ -15170,12 +14525,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73H"
+    "738",
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "CPH",
@@ -15185,12 +14539,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "319"
+    "321",
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -15200,11 +14553,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "OSL",
@@ -15214,11 +14566,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73G",
-        "73H",
-        "73W",
-
-{
+    "73G",
+    "73H",
+    "73W"
+    ]
+    },
+    {
     "airline_iata": "SN",
     "airline_icao": null,
     "departure_airport_iata": "BRU",
@@ -15228,11 +14581,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733",
-        "319",
-        "320",
-
-{
+    "733",
+    "319",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "GRU",
@@ -15242,11 +14596,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -15256,11 +14609,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -15270,11 +14622,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "LED",
@@ -15284,11 +14635,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "735"
+    "735"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -15298,12 +14648,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SX",
     "airline_icao": null,
     "departure_airport_iata": "BRN",
@@ -15313,11 +14662,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TK",
     "airline_icao": null,
     "departure_airport_iata": "IST",
@@ -15327,11 +14675,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "738"
-
-{
+    "321",
+    "320",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "TP",
     "airline_icao": null,
     "departure_airport_iata": "LIS",
@@ -15341,11 +14690,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ER4",
-        "319",
-        "320",
-
-{
+    "ER4",
+    "319",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "TP",
     "airline_icao": null,
     "departure_airport_iata": "OPO",
@@ -15355,11 +14705,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TS",
     "airline_icao": null,
     "departure_airport_iata": "YUL",
@@ -15369,12 +14718,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330",
-        "310"
+    "330",
+    "310"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TU",
     "airline_icao": null,
     "departure_airport_iata": "TUN",
@@ -15384,11 +14732,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "735"
-
-{
+    "320",
+    "319",
+    "735"
+    ]
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -15398,12 +14747,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BFS",
@@ -15413,11 +14761,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BRS",
@@ -15427,12 +14774,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "BSL",
@@ -15442,12 +14788,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -15457,11 +14802,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "DTM",
@@ -15471,11 +14815,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "GVA",
@@ -15485,12 +14828,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "LGW",
@@ -15500,12 +14842,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "LIS",
@@ -15515,11 +14856,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "LPL",
@@ -15529,12 +14869,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "LTN",
@@ -15544,11 +14883,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "LYS",
@@ -15558,11 +14896,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -15572,12 +14909,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "NCE",
@@ -15587,11 +14923,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "NCL",
@@ -15601,12 +14936,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "SEN",
@@ -15616,11 +14950,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "STN",
@@ -15630,11 +14963,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U2",
     "airline_icao": null,
     "departure_airport_iata": "SXF",
@@ -15644,12 +14976,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "U6",
     "airline_icao": null,
     "departure_airport_iata": "SVX",
@@ -15659,11 +14990,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "EWR",
@@ -15673,11 +15003,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UN",
     "airline_icao": null,
     "departure_airport_iata": "DME",
@@ -15687,11 +15016,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "PHL",
@@ -15701,11 +15029,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "ACE",
@@ -15715,11 +15042,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "BOD",
@@ -15729,11 +15055,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -15743,11 +15068,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "IBZ",
@@ -15757,11 +15081,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "LYS",
@@ -15771,11 +15094,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -15785,12 +15107,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "738"
+    "E90",
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "MAH",
@@ -15800,11 +15121,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "OTP",
@@ -15814,11 +15134,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "PMI",
@@ -15828,11 +15147,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -15842,11 +15160,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "TFN",
@@ -15856,11 +15173,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "AAL",
@@ -15870,11 +15186,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "ACE",
@@ -15884,11 +15199,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "AGP",
@@ -15898,11 +15212,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "ALC",
@@ -15912,11 +15225,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -15926,11 +15238,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "ARN",
@@ -15940,11 +15251,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "ATH",
@@ -15954,11 +15264,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BES",
@@ -15968,11 +15277,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BIO",
@@ -15982,11 +15290,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BOD",
@@ -15996,11 +15303,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "BRU",
@@ -16010,11 +15316,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "CPH",
@@ -16024,11 +15329,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "CWL",
@@ -16038,11 +15342,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "DBV",
@@ -16052,11 +15355,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "DME",
@@ -16066,11 +15368,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "EAS",
@@ -16080,11 +15381,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "EDI",
@@ -16094,11 +15394,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -16108,11 +15407,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "FLR",
@@ -16122,11 +15420,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "GOA",
@@ -16136,11 +15433,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "GRQ",
@@ -16150,11 +15446,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "GRX",
@@ -16164,11 +15459,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "HAM",
@@ -16178,11 +15472,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "IBZ",
@@ -16192,11 +15485,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "LCG",
@@ -16206,11 +15498,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "LDE",
@@ -16220,11 +15511,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "LED",
@@ -16234,11 +15524,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "LEI",
@@ -16248,12 +15537,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "LIL",
@@ -16263,11 +15551,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "LIS",
@@ -16277,11 +15564,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "LPA",
@@ -16291,11 +15577,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "LYS",
@@ -16305,11 +15590,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -16319,11 +15603,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "MAH",
@@ -16333,11 +15616,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "MLA",
@@ -16347,11 +15629,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "MRS",
@@ -16361,11 +15642,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -16375,11 +15655,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -16389,11 +15668,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "NAP",
@@ -16403,11 +15681,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "NCE",
@@ -16417,11 +15694,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "NTE",
@@ -16431,11 +15707,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "NUE",
@@ -16445,11 +15720,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "ORY",
@@ -16459,11 +15733,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "OVD",
@@ -16473,11 +15746,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "PMI",
@@ -16487,12 +15759,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "PMO",
@@ -16502,11 +15773,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "PRG",
@@ -16516,11 +15786,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "PSA",
@@ -16530,11 +15799,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "RAK",
@@ -16544,11 +15812,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "SCQ",
@@ -16558,11 +15825,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "SDR",
@@ -16572,11 +15838,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "SVG",
@@ -16586,11 +15851,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "SVQ",
@@ -16600,11 +15864,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "SXB",
@@ -16614,11 +15877,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "TFN",
@@ -16628,11 +15890,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "TLS",
@@ -16642,11 +15903,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "TLV",
@@ -16656,11 +15916,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "TXL",
@@ -16670,11 +15929,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "VCE",
@@ -16684,12 +15942,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "VGO",
@@ -16699,11 +15956,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "VIE",
@@ -16713,11 +15969,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VY",
     "airline_icao": null,
     "departure_airport_iata": "ZRH",
@@ -16727,11 +15982,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "BUD",
@@ -16741,11 +15995,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "CLJ",
@@ -16755,11 +16008,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "GDN",
@@ -16769,11 +16021,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "KTW",
@@ -16783,11 +16034,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "OTP",
@@ -16797,11 +16047,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "PRG",
@@ -16811,11 +16060,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "SOF",
@@ -16825,11 +16073,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "TGM",
@@ -16839,10 +16086,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "ADL",
@@ -16852,11 +16099,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "BNE",
@@ -16866,11 +16112,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "CBR",
@@ -16880,11 +16125,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -16894,11 +16138,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "380"
+    "380"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "PER",
@@ -16908,11 +16151,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763",
-        "330",
-        "737"
-
-{
+    "763",
+    "330",
+    "737"
+    ]
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -16922,11 +16166,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737",
-        "763",
-        "330"
-
-{
+    "737",
+    "763",
+    "330"
+    ]
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "AUH",
@@ -16936,11 +16181,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346",
-        "345"
+    "346",
+    "345"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "AKL",
@@ -16950,11 +16195,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -16964,11 +16208,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BI",
     "airline_icao": null,
     "departure_airport_iata": "BWN",
@@ -16978,11 +16221,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -16992,11 +16234,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "ADL",
@@ -17006,11 +16247,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -17020,11 +16260,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "CAN",
@@ -17034,11 +16273,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "D7",
     "airline_icao": null,
     "departure_airport_iata": "KUL",
@@ -17048,11 +16286,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "ADL",
@@ -17062,11 +16299,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "73H",
-        "73W"
-
-{
+    "E90",
+    "73H",
+    "73W"
+    ]
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "AKL",
@@ -17076,11 +16314,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "BNE",
@@ -17090,11 +16327,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "73W"
+    "73H",
+    "73W"
     ]
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "CBR",
@@ -17104,11 +16341,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "E90",
-        "73W"
-
-{
+    "73H",
+    "E90",
+    "73W"
+    ]
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "CFS",
@@ -17118,11 +16356,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "CHC",
@@ -17132,11 +16369,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "CNS",
@@ -17146,11 +16382,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "DPS",
@@ -17160,11 +16395,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "DRW",
@@ -17174,11 +16408,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "HBA",
@@ -17188,11 +16421,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "73W",
-        "E90"
-
-{
+    "73H",
+    "73W",
+    "E90"
+    ]
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "KGI",
@@ -17202,11 +16436,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "100"
+    "100"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "LST",
@@ -17216,11 +16449,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "E90",
-        "73W"
-
-{
+    "73H",
+    "E90",
+    "73W"
+    ]
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MCY",
@@ -17230,11 +16464,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MQL",
@@ -17244,11 +16477,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "NAN",
@@ -17258,11 +16490,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "NTL",
@@ -17272,11 +16503,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "73W"
+    "73H",
+    "73W"
     ]
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "OOL",
@@ -17286,11 +16517,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "73W"
+    "73H",
+    "73W"
     ]
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "PER",
@@ -17300,11 +16531,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -17314,11 +16544,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "73W",
-        "E90"
-
-{
+    "73H",
+    "73W",
+    "E90"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -17328,11 +16559,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "AKL",
@@ -17342,11 +16572,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "DXB",
@@ -17356,11 +16585,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "KUL",
@@ -17370,11 +16598,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -17384,11 +16611,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EY",
     "airline_icao": null,
     "departure_airport_iata": "AUH",
@@ -17398,11 +16624,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346",
-        "345"
+    "346",
+    "345"
     ]
-
-{
+    },
+    {
     "airline_iata": "FJ",
     "airline_icao": null,
     "departure_airport_iata": "NAN",
@@ -17412,11 +16638,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "744"
+    "73H",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "GA",
     "airline_icao": null,
     "departure_airport_iata": "CGK",
@@ -17426,11 +16652,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GA",
     "airline_icao": null,
     "departure_airport_iata": "DPS",
@@ -17440,11 +16665,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "332"
+    "333",
+    "332"
     ]
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "ADL",
@@ -17454,11 +16679,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "AKL",
@@ -17468,11 +16692,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "BKK",
@@ -17482,11 +16705,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "BNE",
@@ -17496,11 +16718,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "BNK",
@@ -17510,11 +16732,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "CHC",
@@ -17524,11 +16745,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "CNS",
@@ -17538,11 +16758,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "DPS",
@@ -17552,11 +16772,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "DRW",
@@ -17566,11 +16785,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "HBA",
@@ -17580,11 +16798,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "HTI",
@@ -17594,11 +16812,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "LST",
@@ -17608,11 +16825,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MCY",
@@ -17622,11 +16838,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "NTL",
@@ -17636,11 +16851,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "OOL",
@@ -17650,11 +16864,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "PER",
@@ -17664,11 +16878,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -17678,11 +16891,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -17692,11 +16904,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "332",
-        "321"
-
-{
+    "320",
+    "332",
+    "321"
+    ]
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "TSV",
@@ -17706,11 +16919,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "ZQN",
@@ -17720,11 +16932,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -17734,11 +16945,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -17748,11 +16958,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MH",
     "airline_icao": null,
     "departure_airport_iata": "KUL",
@@ -17762,11 +16971,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "AKL",
@@ -17776,11 +16984,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -17790,11 +16997,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -17804,11 +17010,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "WLG",
@@ -17818,11 +17023,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "AKL",
@@ -17832,11 +17036,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773",
-        "320",
-        "763"
-
-{
+    "773",
+    "320",
+    "763"
+    ]
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "AKL",
@@ -17846,11 +17051,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "CHC",
@@ -17860,11 +17064,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "CHC",
@@ -17874,11 +17077,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -17888,11 +17090,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "WLG",
@@ -17902,11 +17103,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PR",
     "airline_icao": null,
     "departure_airport_iata": "MNL",
@@ -17916,11 +17116,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PR",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -17930,11 +17129,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "ADL",
@@ -17944,11 +17142,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "734",
-        "763"
-
-{
+    "73H",
+    "734",
+    "763"
+    ]
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "ADL",
@@ -17958,11 +17157,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "AKL",
@@ -17972,11 +17170,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H",
-        "332"
+    "73H",
+    "332"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "ASP",
@@ -17986,11 +17184,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "BME",
@@ -18000,11 +17197,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "BNE",
@@ -18014,11 +17210,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "734"
+    "73H",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "CBR",
@@ -18028,11 +17224,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "734",
-        "763",
-        "73H"
-
-{
+    "734",
+    "763",
+    "73H"
+    ]
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "CBR",
@@ -18042,11 +17239,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH3",
-        "DH4"
+    "DH3",
+    "DH4"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "CNS",
@@ -18056,11 +17253,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "DPO",
@@ -18070,11 +17266,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH3",
-        "DH4"
+    "DH3",
+    "DH4"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "DPS",
@@ -18084,11 +17280,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "DRW",
@@ -18098,11 +17293,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "HBA",
@@ -18112,11 +17306,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "734",
-        "73H"
+    "734",
+    "73H"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -18126,11 +17320,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "KTA",
@@ -18140,11 +17333,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -18154,11 +17346,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "LST",
@@ -18168,11 +17359,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MQL",
@@ -18182,11 +17372,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4",
-        "DH3"
+    "DH4",
+    "DH3"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "NAN",
@@ -18196,11 +17386,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H",
-        "744"
+    "73H",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "PER",
@@ -18210,11 +17400,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "763",
-        "332",
-
-{
+    "333",
+    "763",
+    "332"
+    ]
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "PHE",
@@ -18224,11 +17415,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "SGN",
@@ -18238,11 +17428,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -18252,11 +17441,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -18266,11 +17454,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "763",
-        "333",
-
-{
+    "73H",
+    "763",
+    "333"
+    ]
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -18280,11 +17469,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "WLG",
@@ -18294,11 +17482,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "DOH",
@@ -18308,11 +17495,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77L"
+    "77L"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -18322,11 +17508,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388",
-        "773"
+    "388",
+    "773"
     ]
-
-{
+    },
+    {
     "airline_iata": "TG",
     "airline_icao": null,
     "departure_airport_iata": "BKK",
@@ -18336,11 +17522,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777",
-        "773"
+    "777",
+    "773"
     ]
-
-{
+    },
+    {
     "airline_iata": "TK",
     "airline_icao": null,
     "departure_airport_iata": "BKK",
@@ -18350,11 +17536,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "773"
+    "777",
+    "773"
     ]
-
-{
+    },
+    {
     "airline_iata": "TN",
     "airline_icao": null,
     "departure_airport_iata": "AKL",
@@ -18364,11 +17550,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TT",
     "airline_icao": null,
     "departure_airport_iata": "BNE",
@@ -18378,11 +17563,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TT",
     "airline_icao": null,
     "departure_airport_iata": "CNS",
@@ -18392,11 +17576,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TT",
     "airline_icao": null,
     "departure_airport_iata": "OOL",
@@ -18406,11 +17589,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TT",
     "airline_icao": null,
     "departure_airport_iata": "PER",
@@ -18420,11 +17602,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TT",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -18434,11 +17615,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -18448,11 +17628,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UL",
     "airline_icao": null,
     "departure_airport_iata": "KUL",
@@ -18462,11 +17641,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -18476,11 +17654,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VA",
     "airline_icao": null,
     "departure_airport_iata": "AUH",
@@ -18490,11 +17667,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346",
-        "345"
+    "346",
+    "345"
     ]
-
-{
+    },
+    {
     "airline_iata": "VA",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -18504,11 +17681,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VA",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -18518,11 +17694,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388",
-        "773"
+    "388",
+    "773"
     ]
-
-{
+    },
+    {
     "airline_iata": "VN",
     "airline_icao": null,
     "departure_airport_iata": "SGN",
@@ -18532,11 +17708,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XR",
     "airline_icao": null,
     "departure_airport_iata": "KGI",
@@ -18546,11 +17721,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "100"
+    "100"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "ABX",
@@ -18560,11 +17734,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "BWT",
@@ -18574,11 +17747,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "KNS",
@@ -18588,11 +17760,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "MGB",
@@ -18602,11 +17773,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "MIM",
@@ -18616,11 +17786,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "MQL",
@@ -18630,11 +17799,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "WGA",
@@ -18644,10 +17812,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18657,11 +17825,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18671,11 +17838,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18685,11 +17851,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18699,11 +17864,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "380"
+    "380"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18713,11 +17877,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330",
-        "763"
+    "330",
+    "763"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18727,11 +17891,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763",
-        "330",
-        "737"
-
-{
+    "763",
+    "330",
+    "737"
+    ]
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18741,11 +17906,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "345",
-        "346"
+    "345",
+    "346"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18755,11 +17920,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18769,11 +17933,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BI",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18783,11 +17946,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18797,11 +17959,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18811,11 +17972,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18825,11 +17985,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "D7",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18839,11 +17998,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18853,11 +18011,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "73H",
-        "73W"
-
-{
+    "E90",
+    "73H",
+    "73W"
+    ]
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18867,11 +18026,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18881,11 +18039,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "73W"
+    "73H",
+    "73W"
     ]
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18895,11 +18053,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "73H",
-        "73W"
-
-{
+    "E90",
+    "73H",
+    "73W"
+    ]
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18909,11 +18068,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18923,11 +18081,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18937,11 +18094,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18951,11 +18107,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18965,11 +18120,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18979,11 +18133,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73W",
-        "73H",
-        "E90"
-
-{
+    "73W",
+    "73H",
+    "E90"
+    ]
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -18993,11 +18148,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "100"
+    "100"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19007,11 +18161,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "E90",
-        "73W"
-
-{
+    "73H",
+    "E90",
+    "73W"
+    ]
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19021,11 +18176,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19035,11 +18189,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19049,11 +18202,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19063,11 +18215,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "73W"
+    "73H",
+    "73W"
     ]
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19077,11 +18229,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "73W"
+    "73H",
+    "73W"
     ]
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19091,11 +18243,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19105,11 +18256,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "73W",
-        "E90"
-
-{
+    "73H",
+    "73W",
+    "E90"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19119,11 +18271,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19133,11 +18284,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19147,11 +18297,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19161,11 +18310,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19175,11 +18323,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EY",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19189,11 +18336,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "345",
-        "346"
+    "345",
+    "346"
     ]
-
-{
+    },
+    {
     "airline_iata": "FJ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19203,11 +18350,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "744"
+    "73H",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "GA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19217,11 +18364,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19231,11 +18377,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "332"
+    "333",
+    "332"
     ]
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19245,11 +18391,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19259,11 +18404,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19273,11 +18417,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19287,11 +18430,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19301,11 +18444,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19315,11 +18457,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19329,11 +18471,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19343,11 +18484,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19357,11 +18497,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19371,11 +18511,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19385,11 +18524,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19399,11 +18537,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19413,11 +18550,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19427,11 +18563,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19441,11 +18577,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19455,11 +18590,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19469,11 +18603,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "332",
-        "321"
-
-{
+    "320",
+    "332",
+    "321"
+    ]
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19483,11 +18618,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19497,11 +18631,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19511,11 +18644,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MH",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19525,11 +18657,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19539,11 +18670,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19553,11 +18683,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19567,11 +18696,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19581,11 +18709,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19595,11 +18722,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "773",
-        "763"
-
-{
+    "320",
+    "773",
+    "763"
+    ]
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19609,11 +18737,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19623,11 +18750,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19637,11 +18763,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19651,11 +18776,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19665,11 +18789,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PR",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19679,11 +18802,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PR",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19693,11 +18815,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19707,11 +18828,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "734",
-        "763"
-
-{
+    "73H",
+    "734",
+    "763"
+    ]
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19721,11 +18843,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19735,11 +18856,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H",
-        "320"
+    "73H",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19749,11 +18870,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19763,11 +18883,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19777,11 +18896,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19791,11 +18909,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "763",
-        "734"
-
-{
+    "73H",
+    "763",
+    "734"
+    ]
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19805,11 +18924,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "734",
-        "73H"
-
-{
+    "763",
+    "734",
+    "73H"
+    ]
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19819,11 +18939,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH3",
-        "DH4"
+    "DH3",
+    "DH4"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19833,11 +18953,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19847,11 +18966,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4",
-        "DH3"
+    "DH4",
+    "DH3"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19861,11 +18980,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19875,11 +18993,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19889,11 +19006,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19903,11 +19019,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19917,11 +19032,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19931,11 +19045,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19945,11 +19058,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19959,11 +19071,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4",
-        "DH3"
+    "DH4",
+    "DH3"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19973,11 +19085,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H",
-        "744"
+    "73H",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -19987,11 +19099,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "332",
-        "763",
-
-{
+    "333",
+    "332",
+    "763"
+    ]
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20001,11 +19114,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20015,11 +19127,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20029,11 +19140,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20043,11 +19153,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20057,11 +19166,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "332",
-        "73H",
-
-{
+    "763",
+    "332",
+    "73H"
+    ]
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20071,11 +19181,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20085,11 +19194,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20099,11 +19207,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77L"
+    "77L"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20113,11 +19220,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388",
-        "773"
+    "388",
+    "773"
     ]
-
-{
+    },
+    {
     "airline_iata": "TG",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20127,11 +19234,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773",
-        "777"
+    "773",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "TK",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20141,11 +19248,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773",
-        "777"
+    "773",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "TN",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20155,11 +19262,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TT",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20169,11 +19275,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TT",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20183,11 +19288,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TT",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20197,11 +19301,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TT",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20211,11 +19314,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TT",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20225,11 +19327,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20239,11 +19340,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UL",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20253,11 +19353,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20267,11 +19366,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20281,11 +19379,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "345",
-        "346"
+    "345",
+    "346"
     ]
-
-{
+    },
+    {
     "airline_iata": "VA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20295,11 +19393,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VA",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20309,11 +19406,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388",
-        "773"
+    "388",
+    "773"
     ]
-
-{
+    },
+    {
     "airline_iata": "VN",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20323,11 +19420,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XR",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20337,11 +19433,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "100"
+    "100"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20351,11 +19446,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20365,11 +19459,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20379,11 +19472,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20393,11 +19485,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20407,11 +19498,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20421,11 +19511,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZL",
     "airline_icao": null,
     "departure_airport_iata": "MEL",
@@ -20435,10 +19524,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "SF3"
+    "SF3"
     ]
-},
-{
+    },
+    {
     "airline_iata": "9W",
     "airline_icao": null,
     "departure_airport_iata": "BOM",
@@ -20448,11 +19537,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "BOS",
@@ -20462,11 +19550,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "787",
-        "777"
+    "787",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "DFW",
@@ -20476,11 +19564,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "HNL",
@@ -20490,11 +19577,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -20504,11 +19590,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -20518,11 +19603,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -20532,11 +19616,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "ORD",
@@ -20546,11 +19629,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "ORD",
@@ -20560,11 +19642,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "YVR",
@@ -20574,11 +19655,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AC",
     "airline_icao": null,
     "departure_airport_iata": "YVR",
@@ -20588,11 +19668,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AC",
     "airline_icao": null,
     "departure_airport_iata": "YYC",
@@ -20602,11 +19681,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AC",
     "airline_icao": null,
     "departure_airport_iata": "YYZ",
@@ -20616,11 +19694,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -20630,11 +19707,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388",
-        "77W"
+    "388",
+    "77W"
     ]
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -20644,11 +19721,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "DEL",
@@ -20658,11 +19734,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W",
-        "77L"
+    "77W",
+    "77L"
     ]
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -20672,11 +19748,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -20686,11 +19761,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AM",
     "airline_icao": null,
     "departure_airport_iata": "TIJ",
@@ -20700,11 +19774,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "762"
+    "762"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AY",
     "airline_icao": null,
     "departure_airport_iata": "HEL",
@@ -20714,11 +19787,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -20728,11 +19800,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -20742,11 +19813,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -20756,11 +19826,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -20770,11 +19839,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BC",
     "airline_icao": null,
     "departure_airport_iata": "AKJ",
@@ -20784,11 +19852,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BC",
     "airline_icao": null,
     "departure_airport_iata": "CTS",
@@ -20798,11 +19865,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BC",
     "airline_icao": null,
     "departure_airport_iata": "FUK",
@@ -20812,11 +19878,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BC",
     "airline_icao": null,
     "departure_airport_iata": "KOJ",
@@ -20826,11 +19891,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BC",
     "airline_icao": null,
     "departure_airport_iata": "OKA",
@@ -20840,11 +19904,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BC",
     "airline_icao": null,
     "departure_airport_iata": "UKB",
@@ -20854,11 +19917,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BR",
     "airline_icao": null,
     "departure_airport_iata": "TPE",
@@ -20868,11 +19930,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BR",
     "airline_icao": null,
     "departure_airport_iata": "TPE",
@@ -20882,11 +19943,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BX",
     "airline_icao": null,
     "departure_airport_iata": "PUS",
@@ -20896,11 +19956,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "CAN",
@@ -20910,11 +19969,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "CTU",
@@ -20924,11 +19982,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "DLC",
@@ -20938,11 +19995,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "DLC",
@@ -20952,11 +20008,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "HGH",
@@ -20966,11 +20021,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -20980,11 +20034,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "738"
-
-{
+    "321",
+    "320",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -20994,11 +20049,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763",
-        "737"
+    "763",
+    "737"
     ]
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -21008,11 +20063,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "738"
+    "321",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -21022,11 +20077,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "763"
+    "777",
+    "763"
     ]
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "SHE",
@@ -21036,11 +20091,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "TAO",
@@ -21050,11 +20104,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "XMN",
@@ -21064,11 +20117,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CI",
     "airline_icao": null,
     "departure_airport_iata": "HNL",
@@ -21078,11 +20130,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CI",
     "airline_icao": null,
     "departure_airport_iata": "KHH",
@@ -21092,11 +20143,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CI",
     "airline_icao": null,
     "departure_airport_iata": "TPE",
@@ -21106,11 +20156,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343",
-        "744",
-        "333"
-
-{
+    "343",
+    "744",
+    "333"
+    ]
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -21120,11 +20171,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "343",
-        "773"
-
-{
+    "333",
+    "343",
+    "773"
+    ]
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -21134,11 +20186,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "TPE",
@@ -21148,11 +20199,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "CAN",
@@ -21162,11 +20212,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "CAN",
@@ -21176,11 +20225,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "CGQ",
@@ -21190,11 +20238,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "DLC",
@@ -21204,11 +20251,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "321"
+    "319",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "HRB",
@@ -21218,11 +20265,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -21232,11 +20278,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "SHE",
@@ -21246,11 +20291,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ATL",
@@ -21260,11 +20304,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "BKK",
@@ -21274,11 +20317,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "DTW",
@@ -21288,11 +20330,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "GUM",
@@ -21302,11 +20343,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767",
-        "752"
+    "767",
+    "752"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -21316,11 +20357,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77L"
+    "77L"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "HNL",
@@ -21330,11 +20370,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744",
-        "767",
-        "333"
-
-{
+    "744",
+    "767",
+    "333"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -21344,11 +20385,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -21358,11 +20398,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -21372,11 +20411,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77L"
+    "77L"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MNL",
@@ -21386,11 +20424,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MSP",
@@ -21400,11 +20437,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77L"
+    "77L"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "PDX",
@@ -21414,11 +20450,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -21428,11 +20463,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -21442,11 +20476,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ROR",
@@ -21456,11 +20489,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SEA",
@@ -21470,11 +20502,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SFO",
@@ -21484,11 +20515,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -21498,11 +20528,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77L"
+    "77L"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SPN",
@@ -21512,11 +20541,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "TPE",
@@ -21526,11 +20554,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "DXB",
@@ -21540,11 +20567,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EY",
     "airline_icao": null,
     "departure_airport_iata": "AUH",
@@ -21554,11 +20580,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FW",
     "airline_icao": null,
     "departure_airport_iata": "HIJ",
@@ -21568,11 +20593,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FW",
     "airline_icao": null,
     "departure_airport_iata": "KMQ",
@@ -21582,11 +20606,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FW",
     "airline_icao": null,
     "departure_airport_iata": "SDJ",
@@ -21596,11 +20619,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GA",
     "airline_icao": null,
     "departure_airport_iata": "CGK",
@@ -21610,11 +20632,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GA",
     "airline_icao": null,
     "departure_airport_iata": "DPS",
@@ -21624,11 +20645,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GK",
     "airline_icao": null,
     "departure_airport_iata": "CTS",
@@ -21638,11 +20658,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GK",
     "airline_icao": null,
     "departure_airport_iata": "FUK",
@@ -21652,11 +20671,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GK",
     "airline_icao": null,
     "departure_airport_iata": "KIX",
@@ -21666,11 +20684,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GK",
     "airline_icao": null,
     "departure_airport_iata": "OKA",
@@ -21680,11 +20697,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HX",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -21694,11 +20710,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HY",
     "airline_icao": null,
     "departure_airport_iata": "TAS",
@@ -21708,11 +20723,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "BKK",
@@ -21722,11 +20736,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767",
-        "777"
+    "767",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "BOS",
@@ -21736,11 +20750,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "788",
-        "777"
+    "788",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "CAN",
@@ -21750,11 +20764,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "CAN",
@@ -21764,11 +20777,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -21778,11 +20790,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -21792,11 +20803,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388",
-        "773"
+    "388",
+    "773"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "CGK",
@@ -21806,11 +20817,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "CJU",
@@ -21820,11 +20830,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "739"
+    "739"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "CNS",
@@ -21834,11 +20843,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "CTS",
@@ -21848,11 +20856,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "DEL",
@@ -21862,11 +20869,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "788"
+    "788"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "DFW",
@@ -21876,11 +20882,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "DLC",
@@ -21890,11 +20895,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "DME",
@@ -21904,11 +20908,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "788"
+    "788"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "DXB",
@@ -21918,11 +20921,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -21932,11 +20934,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "FUK",
@@ -21946,11 +20947,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "FUK",
@@ -21960,11 +20960,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "GUM",
@@ -21974,11 +20973,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "HAN",
@@ -21988,11 +20986,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "HAN",
@@ -22002,11 +20999,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "HEL",
@@ -22016,11 +21012,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -22030,11 +21025,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -22044,11 +21038,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333",
-        "343",
-        "773"
-
-{
+    "333",
+    "343",
+    "773"
+    ]
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "HNL",
@@ -22058,11 +21053,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -22072,11 +21066,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -22086,11 +21079,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773",
-        "332",
-        "772",
-
-{
+    "773",
+    "332",
+    "772"
+    ]
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "ITM",
@@ -22100,11 +21094,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "ITM",
@@ -22114,11 +21107,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -22128,11 +21120,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "KHH",
@@ -22142,11 +21133,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "KUL",
@@ -22156,11 +21146,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "KUL",
@@ -22170,11 +21159,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -22184,11 +21172,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -22198,11 +21185,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -22212,11 +21198,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -22226,11 +21211,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "MNL",
@@ -22240,11 +21224,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NGO",
@@ -22254,11 +21237,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773",
-        "777"
+    "773",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NGO",
@@ -22268,11 +21251,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NKG",
@@ -22282,11 +21264,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "OKA",
@@ -22296,11 +21277,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "OOL",
@@ -22310,11 +21290,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "ORD",
@@ -22324,11 +21303,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "ORD",
@@ -22338,11 +21316,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -22352,11 +21329,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "PPT",
@@ -22366,11 +21342,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "PUS",
@@ -22380,11 +21355,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "PUS",
@@ -22394,11 +21368,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -22408,11 +21381,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -22422,11 +21394,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "ROR",
@@ -22436,11 +21407,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "SGN",
@@ -22450,11 +21420,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "SGN",
@@ -22464,11 +21433,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330",
-        "321"
+    "330",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "SHE",
@@ -22478,11 +21447,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -22492,11 +21460,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "788",
-        "767"
+    "788",
+    "767"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -22506,11 +21474,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "TPE",
@@ -22520,11 +21487,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767",
-        "73H"
+    "767",
+    "73H"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "TPE",
@@ -22534,11 +21501,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "YVR",
@@ -22548,11 +21514,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "CNS",
@@ -22562,11 +21527,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "MNL",
@@ -22576,11 +21540,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "OOL",
@@ -22590,11 +21553,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JW",
     "airline_icao": null,
     "departure_airport_iata": "CTS",
@@ -22604,11 +21566,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JW",
     "airline_icao": null,
     "departure_airport_iata": "FUK",
@@ -22618,11 +21579,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JW",
     "airline_icao": null,
     "departure_airport_iata": "OKA",
@@ -22632,11 +21592,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "CJU",
@@ -22646,11 +21605,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "739"
+    "739"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -22660,11 +21618,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773",
-        "332",
-        "772",
-
-{
+    "773",
+    "332",
+    "772"
+    ]
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -22674,11 +21633,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -22688,11 +21646,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "PUS",
@@ -22702,11 +21659,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "PUS",
@@ -22716,11 +21672,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -22730,11 +21685,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "747",
-        "74M",
-        "777"
-
-{
+    "747",
+    "74M",
+    "777"
+    ]
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -22744,11 +21700,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -22758,11 +21713,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -22772,11 +21726,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -22786,11 +21739,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "ZRH",
@@ -22800,11 +21752,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MH",
     "airline_icao": null,
     "departure_airport_iata": "KUL",
@@ -22814,11 +21765,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MH",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -22828,11 +21778,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MS",
     "airline_icao": null,
     "departure_airport_iata": "CAI",
@@ -22842,11 +21791,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "CAN",
@@ -22856,11 +21804,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "DLC",
@@ -22870,11 +21817,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "NKG",
@@ -22884,11 +21830,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -22898,11 +21843,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -22912,11 +21856,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -22926,11 +21869,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "AKL",
@@ -22940,11 +21882,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "AUH",
@@ -22954,11 +21895,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "BKK",
@@ -22968,11 +21908,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "BKK",
@@ -22982,11 +21921,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744",
-        "773",
-        "747"
-
-{
+    "744",
+    "773",
+    "747"
+    ]
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "BOM",
@@ -22996,11 +21936,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "CAI",
@@ -23010,11 +21949,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "CAN",
@@ -23024,11 +21962,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -23038,11 +21975,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "CGK",
@@ -23052,11 +21988,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "CTS",
@@ -23066,11 +22001,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "737"
+    "320",
+    "737"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "CTU",
@@ -23080,11 +22015,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "DLC",
@@ -23094,11 +22028,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738",
-        "763"
+    "738",
+    "763"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "EWR",
@@ -23108,11 +22042,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -23122,11 +22055,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -23136,11 +22068,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "FUK",
@@ -23150,11 +22081,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737",
-        "735"
+    "737",
+    "735"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "GUM",
@@ -23164,11 +22095,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "HGH",
@@ -23178,11 +22108,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "HIJ",
@@ -23192,11 +22121,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "CR7"
+    "CRJ",
+    "CR7"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -23206,11 +22135,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "HNL",
@@ -23220,11 +22148,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "763"
+    "777",
+    "763"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "IAD",
@@ -23234,11 +22162,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "IAD",
@@ -23248,11 +22175,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "IAH",
@@ -23262,11 +22188,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -23276,11 +22201,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -23290,11 +22214,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744",
-        "321",
-        "777",
-
-{
+    "744",
+    "321",
+    "777"
+    ]
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "IST",
@@ -23304,11 +22229,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "ITM",
@@ -23318,11 +22242,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773",
-        "320",
-        "738",
-
-{
+    "773",
+    "320",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -23332,11 +22257,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "KIJ",
@@ -23346,11 +22270,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH8"
+    "DH8"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "KIX",
@@ -23360,11 +22283,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "KMQ",
@@ -23374,11 +22296,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -23388,11 +22309,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -23402,11 +22322,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -23416,11 +22335,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -23430,11 +22348,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "MFM",
@@ -23444,11 +22361,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "MNL",
@@ -23458,11 +22375,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -23472,11 +22388,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -23486,11 +22401,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NGO",
@@ -23500,11 +22414,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "320"
+    "738",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "OKA",
@@ -23514,11 +22428,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772",
-        "767"
+    "772",
+    "767"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "ORD",
@@ -23528,11 +22442,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "ORD",
@@ -23542,11 +22455,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -23556,11 +22468,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "737"
+    "763",
+    "737"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -23570,11 +22482,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "738"
-
-{
+    "321",
+    "320",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -23584,11 +22497,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777",
-        "763"
+    "777",
+    "763"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -23598,11 +22511,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "738"
+    "321",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "RGN",
@@ -23612,11 +22525,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "SDJ",
@@ -23626,11 +22538,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "SDJ",
@@ -23640,11 +22551,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "SEA",
@@ -23654,11 +22564,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "788"
+    "788"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "SEA",
@@ -23668,11 +22577,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "SFO",
@@ -23682,11 +22590,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "SFO",
@@ -23696,11 +22603,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744",
-        "777"
+    "744",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "SGN",
@@ -23710,11 +22617,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "SHE",
@@ -23724,11 +22630,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -23738,11 +22643,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -23752,11 +22656,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "388",
-        "77W"
-
-{
+    "777",
+    "388",
+    "77W"
+    ]
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "TAO",
@@ -23766,11 +22671,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "TPE",
@@ -23780,11 +22684,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "TPE",
@@ -23794,11 +22697,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332",
-        "777"
+    "332",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "VIE",
@@ -23808,11 +22711,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "XMN",
@@ -23822,11 +22724,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "YVR",
@@ -23836,11 +22737,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "YYC",
@@ -23850,11 +22750,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "YYZ",
@@ -23864,11 +22763,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "ZRH",
@@ -23878,11 +22776,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NX",
     "airline_icao": null,
     "departure_airport_iata": "MFM",
@@ -23892,11 +22789,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-
-{
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "AKL",
@@ -23906,11 +22803,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OM",
     "airline_icao": null,
     "departure_airport_iata": "ULN",
@@ -23920,11 +22816,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OS",
     "airline_icao": null,
     "departure_airport_iata": "VIE",
@@ -23934,11 +22829,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OZ",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -23948,11 +22842,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744",
-        "321",
-        "74E",
-
-{
+    "744",
+    "321",
+    "74E"
+    ]
+    },
+    {
     "airline_iata": "OZ",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -23962,11 +22857,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "320"
+    "777",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "OZ",
     "airline_icao": null,
     "departure_airport_iata": "PUS",
@@ -23976,11 +22871,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PK",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -23990,11 +22884,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "310"
+    "310"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PR",
     "airline_icao": null,
     "departure_airport_iata": "CEB",
@@ -24004,11 +22897,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PR",
     "airline_icao": null,
     "departure_airport_iata": "MNL",
@@ -24018,11 +22910,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PX",
     "airline_icao": null,
     "departure_airport_iata": "POM",
@@ -24032,11 +22923,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "CNS",
@@ -24046,11 +22936,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "OOL",
@@ -24060,11 +22949,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -24074,11 +22962,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "KIX",
@@ -24088,11 +22975,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "S7",
     "airline_icao": null,
     "departure_airport_iata": "KHV",
@@ -24102,11 +22988,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "S7",
     "airline_icao": null,
     "departure_airport_iata": "VVO",
@@ -24116,11 +23001,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SB",
     "airline_icao": null,
     "departure_airport_iata": "NOU",
@@ -24130,11 +23014,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343",
-        "332"
+    "343",
+    "332"
     ]
-
-{
+    },
+    {
     "airline_iata": "SC",
     "airline_icao": null,
     "departure_airport_iata": "TAO",
@@ -24144,11 +23028,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "CPH",
@@ -24158,11 +23041,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -24172,11 +23054,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -24186,11 +23067,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388",
-        "77W"
+    "388",
+    "77W"
     ]
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -24200,11 +23081,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "KHV",
@@ -24214,11 +23094,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -24228,11 +23107,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "UUS",
@@ -24242,11 +23120,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "VVO",
@@ -24256,11 +23133,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TG",
     "airline_icao": null,
     "departure_airport_iata": "BKK",
@@ -24270,11 +23146,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773",
-        "744",
-        "747"
-
-{
+    "773",
+    "744",
+    "747"
+    ]
+    },
+    {
     "airline_iata": "TG",
     "airline_icao": null,
     "departure_airport_iata": "BKK",
@@ -24284,11 +23161,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TG",
     "airline_icao": null,
     "departure_airport_iata": "HNL",
@@ -24298,11 +23174,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TK",
     "airline_icao": null,
     "departure_airport_iata": "IST",
@@ -24312,11 +23187,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TN",
     "airline_icao": null,
     "departure_airport_iata": "PPT",
@@ -24326,11 +23200,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "BKK",
@@ -24340,11 +23213,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "EWR",
@@ -24354,11 +23226,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "GUM",
@@ -24368,11 +23239,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777",
-        "738"
+    "777",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -24382,11 +23253,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "HNL",
@@ -24396,11 +23266,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "HNL",
@@ -24410,11 +23279,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "IAD",
@@ -24424,11 +23292,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "IAD",
@@ -24438,11 +23305,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "IAH",
@@ -24452,11 +23318,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -24466,11 +23331,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -24480,11 +23344,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -24494,11 +23357,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -24508,11 +23370,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "ORD",
@@ -24522,11 +23383,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "ORD",
@@ -24536,11 +23396,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "SEA",
@@ -24550,11 +23409,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "SEA",
@@ -24564,11 +23422,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "788"
+    "788"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "SFO",
@@ -24578,11 +23435,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744",
-        "777"
+    "744",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "SFO",
@@ -24592,11 +23449,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -24606,11 +23462,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "TPE",
@@ -24620,11 +23475,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UL",
     "airline_icao": null,
     "departure_airport_iata": "CMB",
@@ -24634,11 +23488,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "HNL",
@@ -24648,11 +23501,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "763"
+    "777",
+    "763"
     ]
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "IAD",
@@ -24662,11 +23515,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -24676,11 +23528,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -24690,11 +23541,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W",
-        "777",
-        "388"
-
-{
+    "77W",
+    "777",
+    "388"
+    ]
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "ORD",
@@ -24704,11 +23556,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "744"
+    "777",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "SEA",
@@ -24718,11 +23570,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "788"
+    "777",
+    "788"
     ]
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "SFO",
@@ -24732,11 +23584,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744",
-        "77W",
-        "777"
-
-{
+    "744",
+    "77W",
+    "777"
+    ]
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -24746,11 +23599,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VN",
     "airline_icao": null,
     "departure_airport_iata": "HAN",
@@ -24760,11 +23612,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VN",
     "airline_icao": null,
     "departure_airport_iata": "HAN",
@@ -24774,11 +23625,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VN",
     "airline_icao": null,
     "departure_airport_iata": "SGN",
@@ -24788,11 +23638,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330",
-        "321"
+    "330",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "VN",
     "airline_icao": null,
     "departure_airport_iata": "SGN",
@@ -24802,11 +23652,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VS",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -24816,11 +23665,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VS",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -24830,11 +23678,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "KHV",
@@ -24844,11 +23691,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "UUS",
@@ -24858,11 +23704,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "VVO",
@@ -24872,11 +23717,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZE",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -24886,11 +23730,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZH",
     "airline_icao": null,
     "departure_airport_iata": "CAN",
@@ -24900,11 +23743,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZH",
     "airline_icao": null,
     "departure_airport_iata": "FOC",
@@ -24914,11 +23756,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZH",
     "airline_icao": null,
     "departure_airport_iata": "XMN",
@@ -24928,10 +23769,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "9W",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -24941,11 +23782,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -24955,11 +23795,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "787",
-        "777"
+    "787",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -24969,11 +23809,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -24983,11 +23822,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -24997,11 +23835,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25011,11 +23848,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25025,11 +23861,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25039,11 +23874,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25053,11 +23887,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25067,11 +23900,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AC",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25081,11 +23913,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AC",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25095,11 +23926,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AC",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25109,11 +23939,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25123,11 +23952,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388",
-        "77W"
+    "388",
+    "77W"
     ]
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25137,11 +23966,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25151,11 +23979,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25165,11 +23992,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25179,11 +24005,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AM",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25193,11 +24018,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "762"
+    "762"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AY",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25207,11 +24031,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25221,11 +24044,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25235,11 +24057,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25249,11 +24070,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25263,11 +24083,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BC",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25277,11 +24096,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BC",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25291,11 +24109,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BC",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25305,11 +24122,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BC",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25319,11 +24135,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BC",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25333,11 +24148,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BC",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25347,11 +24161,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BR",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25361,11 +24174,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BR",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25375,11 +24187,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BX",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25389,11 +24200,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25403,11 +24213,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25417,11 +24226,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25431,11 +24239,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25445,11 +24252,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25459,11 +24265,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25473,11 +24278,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321",
-        "738"
-
-{
+    "320",
+    "321",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25487,11 +24293,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763",
-        "737"
+    "763",
+    "737"
     ]
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25501,11 +24307,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "321"
+    "738",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25515,11 +24321,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763",
-        "777"
+    "763",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25529,11 +24335,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25543,11 +24348,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25557,11 +24361,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CI",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25571,11 +24374,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CI",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25585,11 +24387,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CI",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25599,11 +24400,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "744",
-        "343"
-
-{
+    "333",
+    "744",
+    "343"
+    ]
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25613,11 +24415,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773",
-        "333",
-        "343"
-
-{
+    "773",
+    "333",
+    "343"
+    ]
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25627,11 +24430,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25641,11 +24443,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25655,11 +24456,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25669,11 +24469,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25683,11 +24482,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25697,11 +24495,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "321"
+    "319",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25711,11 +24509,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25725,11 +24522,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CZ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25739,11 +24535,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25753,11 +24548,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25767,11 +24561,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25781,11 +24574,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25795,11 +24587,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752",
-        "767"
+    "752",
+    "767"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25809,11 +24601,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77L"
+    "77L"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25823,11 +24614,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744",
-        "767",
-        "333"
-
-{
+    "744",
+    "767",
+    "333"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25837,11 +24629,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25851,11 +24642,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25865,11 +24655,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77L"
+    "77L"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25879,11 +24668,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25893,11 +24681,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77L"
+    "77L"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25907,11 +24694,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25921,11 +24707,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25935,11 +24720,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25949,11 +24733,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25963,11 +24746,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25977,11 +24759,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -25991,11 +24772,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77L"
+    "77L"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26005,11 +24785,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26019,11 +24798,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26033,11 +24811,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EY",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26047,11 +24824,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FW",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26061,11 +24837,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FW",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26075,11 +24850,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FW",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26089,11 +24863,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26103,11 +24876,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26117,11 +24889,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GK",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26131,11 +24902,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GK",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26145,11 +24915,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GK",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26159,11 +24928,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "GK",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26173,11 +24941,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HX",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26187,11 +24954,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HY",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26201,11 +24967,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26215,11 +24980,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777",
-        "767"
+    "777",
+    "767"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26229,11 +24994,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "788",
-        "777"
+    "788",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26243,11 +25008,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26257,11 +25021,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26271,11 +25034,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26285,11 +25047,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388",
-        "773"
+    "388",
+    "773"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26299,11 +25061,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26313,11 +25074,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "739"
+    "739"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26327,11 +25087,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26341,11 +25100,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26355,11 +25113,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26369,11 +25126,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "788"
+    "788"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26383,11 +25139,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26397,11 +25152,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26411,11 +25165,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "788"
+    "788"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26425,11 +25178,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26439,11 +25191,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26453,11 +25204,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26467,11 +25217,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26481,11 +25230,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26495,11 +25243,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26509,11 +25256,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26523,11 +25269,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26537,11 +25282,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26551,11 +25295,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773",
-        "333",
-        "343"
-
-{
+    "773",
+    "333",
+    "343"
+    ]
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26565,11 +25310,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26579,11 +25323,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26593,11 +25336,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773",
-        "332",
-        "772",
-
-{
+    "773",
+    "332",
+    "772"
+    ]
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26607,11 +25351,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26621,11 +25364,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26635,11 +25377,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26649,11 +25390,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26663,11 +25403,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26677,11 +25416,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26691,11 +25429,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26705,11 +25442,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26719,11 +25455,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26733,11 +25468,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26747,11 +25481,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26761,11 +25494,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773",
-        "777"
+    "773",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26775,11 +25508,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26789,11 +25521,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26803,11 +25534,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26817,11 +25547,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26831,11 +25560,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26845,11 +25573,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26859,11 +25586,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26873,11 +25599,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26887,11 +25612,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26901,11 +25625,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26915,11 +25638,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26929,11 +25651,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26943,11 +25664,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26957,11 +25677,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26971,11 +25690,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330",
-        "321"
+    "330",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26985,11 +25704,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -26999,11 +25717,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767",
-        "788"
+    "767",
+    "788"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27013,11 +25731,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27027,11 +25744,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "767"
+    "73H",
+    "767"
     ]
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27041,11 +25758,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27055,11 +25771,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27069,11 +25784,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27083,11 +25797,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JQ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27097,11 +25810,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JW",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27111,11 +25823,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JW",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27125,11 +25836,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JW",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27139,11 +25849,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27153,11 +25862,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "739"
+    "739"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27167,11 +25875,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W",
-        "773",
-        "332",
-
-{
+    "77W",
+    "773",
+    "332"
+    ]
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27181,11 +25890,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27195,11 +25903,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27209,11 +25916,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27223,11 +25929,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27237,11 +25942,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "74M",
-        "747",
-        "777"
-
-{
+    "74M",
+    "747",
+    "777"
+    ]
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27251,11 +25957,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27265,11 +25970,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27279,11 +25983,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27293,11 +25996,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27307,11 +26009,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27321,11 +26022,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27335,11 +26035,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MS",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27349,11 +26048,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27363,11 +26061,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27377,11 +26074,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27391,11 +26087,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27405,11 +26100,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27419,11 +26113,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27433,11 +26126,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27447,11 +26139,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27461,11 +26152,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27475,11 +26165,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27489,11 +26178,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744",
-        "773",
-        "747"
-
-{
+    "744",
+    "773",
+    "747"
+    ]
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27503,11 +26193,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27517,11 +26206,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27531,11 +26219,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27545,11 +26232,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27559,11 +26245,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27573,11 +26258,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "320"
+    "738",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27587,11 +26272,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27601,11 +26285,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763",
-        "738"
+    "763",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27615,11 +26299,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27629,11 +26312,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27643,11 +26325,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27657,11 +26338,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737",
-        "735"
+    "737",
+    "735"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27671,11 +26352,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27685,11 +26365,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27699,11 +26378,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7",
-        "CRJ"
+    "CR7",
+    "CRJ"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27713,11 +26392,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27727,11 +26405,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "763"
+    "777",
+    "763"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27741,11 +26419,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27755,11 +26432,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27769,11 +26445,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27783,11 +26458,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27797,11 +26471,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333",
-        "744",
-        "321",
-
-{
+    "333",
+    "744",
+    "321"
+    ]
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27811,11 +26486,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27825,11 +26499,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "773",
-        "767"
-
-{
+    "320",
+    "773",
+    "767"
+    ]
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27839,11 +26514,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27853,11 +26527,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH8"
+    "DH8"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27867,11 +26540,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27881,11 +26553,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27895,11 +26566,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27909,11 +26579,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27923,11 +26592,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27937,11 +26605,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27951,11 +26618,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27965,11 +26632,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27979,11 +26645,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -27993,11 +26658,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28007,11 +26671,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "737",
-        "738"
-
-{
+    "320",
+    "737",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28021,11 +26686,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772",
-        "767"
+    "772",
+    "767"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28035,11 +26700,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28049,11 +26713,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28063,11 +26726,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "737"
+    "763",
+    "737"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28077,11 +26740,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "321",
-        "738"
-
-{
+    "320",
+    "321",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28091,11 +26755,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "777"
+    "763",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28105,11 +26769,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738",
-        "340",
-        "321"
-
-{
+    "738",
+    "340",
+    "321"
+    ]
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28119,11 +26784,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28133,11 +26797,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28147,11 +26810,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28161,11 +26823,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "788"
+    "788"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28175,11 +26836,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28189,11 +26849,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28203,11 +26862,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744",
-        "777"
+    "744",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28217,11 +26876,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28231,11 +26889,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28245,11 +26902,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28259,11 +26915,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W",
-        "763",
-        "777",
-
-{
+    "77W",
+    "763",
+    "777"
+    ]
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28273,11 +26930,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28287,11 +26943,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28301,11 +26956,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332",
-        "777"
+    "332",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28315,11 +26970,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28329,11 +26983,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28343,11 +26996,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28357,11 +27009,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28371,11 +27022,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28385,11 +27035,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NX",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28399,11 +27048,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-
-{
+    },
+    {
     "airline_iata": "NZ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28413,11 +27062,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OM",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28427,11 +27075,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OS",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28441,11 +27088,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OZ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28455,11 +27101,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "744",
-        "321",
-
-{
+    "333",
+    "744",
+    "321"
+    ]
+    },
+    {
     "airline_iata": "OZ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28469,11 +27116,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "777"
+    "320",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "OZ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28483,11 +27130,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PK",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28497,11 +27143,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "310"
+    "310"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PR",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28511,11 +27156,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PR",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28525,11 +27169,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PX",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28539,11 +27182,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28553,11 +27195,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28567,11 +27208,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28581,11 +27221,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28595,11 +27234,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "S7",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28609,11 +27247,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "S7",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28623,11 +27260,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SB",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28637,11 +27273,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343",
-        "332"
+    "343",
+    "332"
     ]
-
-{
+    },
+    {
     "airline_iata": "SC",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28651,11 +27287,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SK",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28665,11 +27300,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28679,11 +27313,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28693,11 +27326,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W",
-        "388"
+    "77W",
+    "388"
     ]
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28707,11 +27340,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28721,11 +27353,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28735,11 +27366,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28749,11 +27379,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28763,11 +27392,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TG",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28777,11 +27405,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744",
-        "773",
-        "747"
-
-{
+    "744",
+    "773",
+    "747"
+    ]
+    },
+    {
     "airline_iata": "TG",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28791,11 +27420,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TG",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28805,11 +27433,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TK",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28819,11 +27446,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TN",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28833,11 +27459,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28847,11 +27472,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28861,11 +27485,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28875,11 +27498,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777",
-        "738"
+    "777",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28889,11 +27512,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28903,11 +27525,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28917,11 +27538,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28931,11 +27551,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28945,11 +27564,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28959,11 +27577,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28973,11 +27590,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -28987,11 +27603,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29001,11 +27616,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29015,11 +27629,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29029,11 +27642,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29043,11 +27655,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29057,11 +27668,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29071,11 +27681,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "788"
+    "788"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29085,11 +27694,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744",
-        "777"
+    "744",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29099,11 +27708,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29113,11 +27721,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29127,11 +27734,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29141,11 +27747,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29155,11 +27760,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "763"
+    "777",
+    "763"
     ]
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29169,11 +27774,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29183,11 +27787,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29197,11 +27800,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W",
-        "777",
-        "388"
-
-{
+    "77W",
+    "777",
+    "388"
+    ]
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29211,11 +27815,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "744"
+    "777",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29225,11 +27829,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "788"
+    "777",
+    "788"
     ]
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29239,11 +27843,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744",
-        "777",
-        "77W"
-
-{
+    "744",
+    "777",
+    "77W"
+    ]
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29253,11 +27858,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VN",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29267,11 +27871,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VN",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29281,11 +27884,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VN",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29295,11 +27897,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330",
-        "321"
+    "330",
+    "321"
     ]
-
-{
+    },
+    {
     "airline_iata": "VN",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29309,11 +27911,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VS",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29323,11 +27924,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VS",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29337,11 +27937,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29351,11 +27950,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29365,11 +27963,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "XF",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29379,11 +27976,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZE",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29393,11 +27989,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29407,11 +28002,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29421,11 +28015,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -29435,10 +28028,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "4M",
     "airline_icao": null,
     "departure_airport_iata": "EZE",
@@ -29448,11 +28041,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "4O",
     "airline_icao": null,
     "departure_airport_iata": "MEX",
@@ -29462,11 +28054,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "AMM",
@@ -29476,11 +28067,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "340"
+    "340"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "ANU",
@@ -29490,11 +28080,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "AUH",
@@ -29504,11 +28093,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "340"
+    "340"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "AUS",
@@ -29518,11 +28106,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -29532,11 +28119,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "BDA",
@@ -29546,11 +28132,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "BGI",
@@ -29560,11 +28145,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "BNA",
@@ -29574,11 +28158,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "BOS",
@@ -29588,11 +28171,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "BRU",
@@ -29602,11 +28184,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "BWI",
@@ -29616,11 +28197,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "CCS",
@@ -29630,11 +28210,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -29644,11 +28223,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "CLE",
@@ -29658,11 +28236,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "CMH",
@@ -29672,11 +28249,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7",
-        "ER4"
+    "CR7",
+    "ER4"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "CUN",
@@ -29686,11 +28263,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "CVG",
@@ -29700,11 +28276,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "DCA",
@@ -29714,11 +28289,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ERD",
-        "CR7"
+    "ERD",
+    "CR7"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "DFW",
@@ -29728,11 +28303,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "DUS",
@@ -29742,11 +28316,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "EZE",
@@ -29756,11 +28329,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -29770,11 +28342,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "GIG",
@@ -29784,11 +28355,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "GRU",
@@ -29798,11 +28368,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "GYE",
@@ -29812,11 +28381,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "HEL",
@@ -29826,11 +28394,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -29840,11 +28407,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "HND",
@@ -29854,11 +28420,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "IND",
@@ -29868,11 +28433,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "LAS",
@@ -29882,11 +28446,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -29896,11 +28459,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "762"
+    "762"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -29910,11 +28472,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -29924,11 +28485,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -29938,11 +28498,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744",
-        "777"
+    "744",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "LIM",
@@ -29952,11 +28512,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -29966,11 +28525,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -29980,11 +28538,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "340"
+    "340"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "MAN",
@@ -29994,11 +28551,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "MCO",
@@ -30008,11 +28564,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "MIA",
@@ -30022,11 +28577,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "757"
+    "763",
+    "757"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -30036,11 +28591,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -30050,11 +28604,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "ORD",
@@ -30064,11 +28617,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "ORF",
@@ -30078,11 +28630,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "PAP",
@@ -30092,11 +28643,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "PIT",
@@ -30106,11 +28656,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "RDU",
@@ -30120,11 +28669,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ERD"
+    "ERD"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "SAN",
@@ -30134,11 +28682,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "SCL",
@@ -30148,11 +28695,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "SDQ",
@@ -30162,11 +28708,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "SEA",
@@ -30176,11 +28721,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "SFO",
@@ -30190,11 +28734,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763",
-        "762"
+    "763",
+    "762"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "SJU",
@@ -30204,11 +28748,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757",
-        "738"
+    "757",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "SKB",
@@ -30218,11 +28762,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "STI",
@@ -30232,11 +28775,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "STT",
@@ -30246,11 +28788,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "TPA",
@@ -30260,11 +28801,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "TXL",
@@ -30274,11 +28814,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "YUL",
@@ -30288,11 +28827,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ERD"
+    "ERD"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "YVR",
@@ -30302,11 +28840,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "YYZ",
@@ -30316,11 +28853,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7",
-        "ERD"
+    "CR7",
+    "ERD"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "ZRH",
@@ -30330,11 +28867,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "DUS",
@@ -30344,11 +28880,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "TXL",
@@ -30358,11 +28893,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AC",
     "airline_icao": null,
     "departure_airport_iata": "YYZ",
@@ -30372,11 +28906,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -30386,11 +28919,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -30400,11 +28932,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332",
-        "772",
-        "388",
-
-{
+    "332",
+    "772",
+    "388"
+    ]
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -30414,11 +28947,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "DCA",
@@ -30428,11 +28960,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "DUB",
@@ -30442,11 +28973,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -30456,11 +28986,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -30470,11 +28999,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "NCE",
@@ -30484,11 +29012,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "DEL",
@@ -30498,11 +29025,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -30512,11 +29038,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AM",
     "airline_icao": null,
     "departure_airport_iata": "CUN",
@@ -30526,11 +29051,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "737"
+    "738",
+    "737"
     ]
-
-{
+    },
+    {
     "airline_iata": "AM",
     "airline_icao": null,
     "departure_airport_iata": "MEX",
@@ -30540,11 +29065,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "762",
-        "737"
-
-{
+    "738",
+    "762",
+    "737"
+    ]
+    },
+    {
     "airline_iata": "AM",
     "airline_icao": null,
     "departure_airport_iata": "MEX",
@@ -30554,11 +29080,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AS",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -30568,11 +29093,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "752",
-        "762"
+    "752",
+    "762"
     ]
-
-{
+    },
+    {
     "airline_iata": "AS",
     "airline_icao": null,
     "departure_airport_iata": "PDX",
@@ -30582,11 +29107,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AS",
     "airline_icao": null,
     "departure_airport_iata": "SEA",
@@ -30596,11 +29120,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H",
-        "738",
-        "752"
-
-{
+    "73H",
+    "738",
+    "752"
+    ]
+    },
+    {
     "airline_iata": "AS",
     "airline_icao": null,
     "departure_airport_iata": "SFO",
@@ -30610,11 +29135,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "752",
-        "763",
-        "762"
-
-{
+    "752",
+    "763",
+    "762"
+    ]
+    },
+    {
     "airline_iata": "AT",
     "airline_icao": null,
     "departure_airport_iata": "CMN",
@@ -30624,11 +29150,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AV",
     "airline_icao": null,
     "departure_airport_iata": "BOG",
@@ -30638,11 +29163,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "330"
+    "319",
+    "330"
     ]
-
-{
+    },
+    {
     "airline_iata": "AV",
     "airline_icao": null,
     "departure_airport_iata": "MDE",
@@ -30652,11 +29177,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AY",
     "airline_icao": null,
     "departure_airport_iata": "HEL",
@@ -30666,11 +29190,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "ATH",
@@ -30680,11 +29203,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -30694,11 +29216,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332",
-        "767",
-        "388",
-
-{
+    "332",
+    "767",
+    "388"
+    ]
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -30708,11 +29231,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330",
-        "772"
+    "330",
+    "772"
     ]
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -30722,11 +29245,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "MEX",
@@ -30736,11 +29258,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "762",
-        "738"
+    "762",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -30750,11 +29272,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -30764,11 +29285,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "SJU",
@@ -30778,11 +29298,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "VCE",
@@ -30792,11 +29311,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "YUL",
@@ -30806,11 +29324,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "YYZ",
@@ -30820,11 +29337,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "ACK",
@@ -30834,11 +29350,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "AUA",
@@ -30848,11 +29363,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "AUS",
@@ -30862,11 +29376,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "BDA",
@@ -30876,11 +29390,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "BGI",
@@ -30890,11 +29403,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "BOS",
@@ -30904,11 +29416,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "BQN",
@@ -30918,11 +29430,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "BTV",
@@ -30932,11 +29443,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "BUF",
@@ -30946,11 +29457,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "BUR",
@@ -30960,11 +29471,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "CLT",
@@ -30974,11 +29484,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "CUN",
@@ -30988,11 +29497,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "DEN",
@@ -31002,11 +29510,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "FLL",
@@ -31016,11 +29523,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "HOU",
@@ -31030,11 +29537,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "IAD",
@@ -31044,11 +29550,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JAX",
@@ -31058,11 +29563,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "320"
+    "E90",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "KIN",
@@ -31072,11 +29577,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "LAS",
@@ -31086,11 +29590,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -31100,11 +29603,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "LGB",
@@ -31114,11 +29616,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "LIR",
@@ -31128,11 +29629,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "LRM",
@@ -31142,11 +29642,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "MBJ",
@@ -31156,11 +29655,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "MCO",
@@ -31170,11 +29668,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "320"
+    "E90",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "MSY",
@@ -31184,11 +29682,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "320"
+    "E90",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "NAS",
@@ -31198,11 +29696,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "OAK",
@@ -31212,11 +29710,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "ORD",
@@ -31226,11 +29723,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "320"
+    "E90",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "PBI",
@@ -31240,11 +29737,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "PDX",
@@ -31254,11 +29750,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "PHX",
@@ -31268,11 +29763,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "PIT",
@@ -31282,11 +29776,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "PLS",
@@ -31296,11 +29789,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "POP",
@@ -31310,11 +29802,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "PSE",
@@ -31324,11 +29815,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "PUJ",
@@ -31338,11 +29828,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "PWM",
@@ -31352,11 +29841,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "RDU",
@@ -31366,11 +29854,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "ROC",
@@ -31380,11 +29867,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "320"
+    "E90",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "RSW",
@@ -31394,11 +29881,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "SAN",
@@ -31408,11 +29894,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "SDQ",
@@ -31422,11 +29907,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "SEA",
@@ -31436,11 +29920,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "SFO",
@@ -31450,11 +29933,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "SJC",
@@ -31464,11 +29946,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "SJU",
@@ -31478,11 +29959,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "SLC",
@@ -31492,11 +29972,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "SMF",
@@ -31506,11 +29985,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "SRQ",
@@ -31520,11 +29998,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "STI",
@@ -31534,11 +30011,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "SXM",
@@ -31548,11 +30024,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "SYR",
@@ -31562,11 +30037,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "320"
+    "E90",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "TPA",
@@ -31576,11 +30051,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "UVF",
@@ -31590,11 +30064,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -31604,11 +30077,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "BRU",
@@ -31618,11 +30090,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -31632,11 +30103,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -31646,11 +30116,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -31660,11 +30129,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744",
-        "777"
+    "744",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -31674,11 +30143,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -31688,11 +30156,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757",
-        "343",
-        "346"
-
-{
+    "757",
+    "343",
+    "346"
+    ]
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "MAN",
@@ -31702,11 +30171,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -31716,11 +30184,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BR",
     "airline_icao": null,
     "departure_airport_iata": "TPE",
@@ -31730,11 +30197,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BW",
     "airline_icao": null,
     "departure_airport_iata": "GND",
@@ -31744,11 +30210,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BW",
     "airline_icao": null,
     "departure_airport_iata": "KIN",
@@ -31758,11 +30223,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BW",
     "airline_icao": null,
     "departure_airport_iata": "MBJ",
@@ -31772,11 +30236,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BW",
     "airline_icao": null,
     "departure_airport_iata": "POS",
@@ -31786,11 +30249,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BW",
     "airline_icao": null,
     "departure_airport_iata": "TAB",
@@ -31800,11 +30262,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -31814,11 +30275,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CI",
     "airline_icao": null,
     "departure_airport_iata": "KIX",
@@ -31828,11 +30288,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CM",
     "airline_icao": null,
     "departure_airport_iata": "PTY",
@@ -31842,11 +30301,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73G"
+    "738",
+    "73G"
     ]
-
-{
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -31856,11 +30315,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "YVR",
@@ -31870,11 +30328,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CY",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -31884,11 +30341,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ACC",
@@ -31898,11 +30354,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -31912,11 +30367,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332",
-        "333"
+    "332",
+    "333"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -31926,11 +30381,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "74M",
-        "77W"
-
-{
+    "777",
+    "74M",
+    "77W"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ATH",
@@ -31940,11 +30396,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ATL",
@@ -31954,11 +30409,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "767",
-        "752",
-
-{
+    "73H",
+    "767",
+    "752"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "AUS",
@@ -31968,11 +30424,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -31982,11 +30437,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "BDL",
@@ -31996,11 +30450,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "BNA",
@@ -32010,11 +30463,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "BOG",
@@ -32024,11 +30476,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73W"
+    "73W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "BOS",
@@ -32038,11 +30489,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "M88",
-        "319",
-        "738"
-
-{
+    "M88",
+    "319",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "BRU",
@@ -32052,11 +30504,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "BUF",
@@ -32066,11 +30517,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "BWI",
@@ -32080,11 +30530,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "CR9"
+    "CRJ",
+    "CR9"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -32094,11 +30544,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -32108,11 +30557,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332",
-        "772",
-        "388",
-
-{
+    "332",
+    "772",
+    "388"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "CHS",
@@ -32122,11 +30572,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ERJ"
+    "ERJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "CHS",
@@ -32136,11 +30585,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "CLE",
@@ -32150,11 +30598,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "CLT",
@@ -32164,11 +30611,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "CMH",
@@ -32178,11 +30624,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ERJ"
+    "ERJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "CUN",
@@ -32192,11 +30637,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "737"
+    "738",
+    "737"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "CVG",
@@ -32206,11 +30651,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7",
-        "CR9"
+    "CR7",
+    "CR9"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "DAY",
@@ -32220,11 +30665,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "DCA",
@@ -32234,11 +30678,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "DCA",
@@ -32248,11 +30691,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "DEN",
@@ -32262,11 +30704,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "DFW",
@@ -32276,11 +30717,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "DKR",
@@ -32290,11 +30730,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "DTW",
@@ -32304,11 +30743,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "DTW",
@@ -32318,11 +30756,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "DUB",
@@ -32332,11 +30769,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ELM",
@@ -32346,11 +30782,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -32360,11 +30795,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "FCO",
@@ -32374,11 +30808,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330",
-        "772"
+    "330",
+    "772"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "FLL",
@@ -32388,11 +30822,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "M88",
-        "73W",
-        "320"
-
-{
+    "M88",
+    "73W",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -32402,11 +30837,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "GEO",
@@ -32416,11 +30850,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "GRU",
@@ -32430,11 +30863,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "GSO",
@@ -32444,11 +30876,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ERJ"
+    "ERJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "IAD",
@@ -32458,11 +30889,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ERJ"
+    "ERJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "IAD",
@@ -32472,11 +30902,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "ERJ"
+    "CRJ",
+    "ERJ"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -32486,11 +30916,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388",
-        "77W"
+    "388",
+    "77W"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "IND",
@@ -32500,11 +30930,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "IST",
@@ -32514,11 +30943,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JAX",
@@ -32528,11 +30956,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "LAS",
@@ -32542,11 +30969,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73H",
-        "757"
-
-{
+    "738",
+    "73H",
+    "757"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -32556,11 +30984,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -32570,11 +30997,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -32584,11 +31010,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -32598,11 +31023,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MCI",
@@ -32612,11 +31036,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CR7"
+    "CR7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MCO",
@@ -32626,11 +31049,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "M88",
-        "320",
-
-{
+    "73H",
+    "M88",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MEM",
@@ -32640,11 +31064,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MEX",
@@ -32654,11 +31077,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "757",
-        "737"
-
-{
+    "738",
+    "757",
+    "737"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MEX",
@@ -32668,11 +31092,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738",
-        "762"
+    "738",
+    "762"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MIA",
@@ -32682,11 +31106,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "320",
-        "M88",
-
-{
+    "738",
+    "320",
+    "M88"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MKE",
@@ -32696,11 +31121,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7"
+    "CR7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MSP",
@@ -32710,11 +31134,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MSP",
@@ -32724,11 +31147,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MSY",
@@ -32738,11 +31160,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -32752,11 +31173,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -32766,11 +31186,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NCE",
@@ -32780,11 +31199,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -32794,11 +31212,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ORD",
@@ -32808,11 +31225,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ORF",
@@ -32822,11 +31238,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ERJ"
+    "ERJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ORF",
@@ -32836,11 +31251,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "PAP",
@@ -32850,11 +31264,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "PDX",
@@ -32864,11 +31277,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "PHL",
@@ -32878,11 +31290,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ERJ",
-        "CRJ"
+    "ERJ",
+    "CRJ"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "PHX",
@@ -32892,11 +31304,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73H"
+    "738",
+    "73H"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "PIT",
@@ -32906,11 +31318,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9",
-        "CR7"
+    "CR9",
+    "CR7"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "PRG",
@@ -32920,11 +31332,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -32934,11 +31345,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "RDU",
@@ -32948,11 +31358,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "ERJ",
-        "CR9"
-
-{
+    "CRJ",
+    "ERJ",
+    "CR9"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "RIC",
@@ -32962,11 +31373,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ERJ"
+    "ERJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "RIC",
@@ -32976,11 +31386,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ROC",
@@ -32990,11 +31399,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "ERJ"
+    "CRJ",
+    "ERJ"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SAN",
@@ -33004,11 +31413,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SAT",
@@ -33018,11 +31426,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SDF",
@@ -33032,11 +31439,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ERJ"
+    "ERJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SDQ",
@@ -33046,11 +31452,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SEA",
@@ -33060,11 +31465,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "752"
+    "73H",
+    "752"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SFO",
@@ -33074,11 +31479,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SJU",
@@ -33088,11 +31492,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SLC",
@@ -33102,11 +31505,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757",
-        "73H",
-        "320"
-
-{
+    "757",
+    "73H",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "STI",
@@ -33116,11 +31520,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "STL",
@@ -33130,11 +31533,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CR7"
+    "CR7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "STL",
@@ -33144,11 +31546,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -33158,11 +31559,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "764",
-        "333"
+    "764",
+    "333"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "SYR",
@@ -33172,11 +31573,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "TLV",
@@ -33186,11 +31586,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "TPA",
@@ -33200,11 +31599,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "M88"
+    "320",
+    "M88"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "VCE",
@@ -33214,11 +31613,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "YUL",
@@ -33228,11 +31626,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "YYZ",
@@ -33242,11 +31639,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EI",
     "airline_icao": null,
     "departure_airport_iata": "DUB",
@@ -33256,11 +31652,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EI",
     "airline_icao": null,
     "departure_airport_iata": "SNN",
@@ -33270,11 +31665,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "DXB",
@@ -33284,11 +31678,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W",
-        "388"
+    "77W",
+    "388"
     ]
-
-{
+    },
+    {
     "airline_iata": "EY",
     "airline_icao": null,
     "departure_airport_iata": "AUH",
@@ -33298,11 +31692,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346",
-        "345"
+    "346",
+    "345"
     ]
-
-{
+    },
+    {
     "airline_iata": "EY",
     "airline_icao": null,
     "departure_airport_iata": "DUS",
@@ -33312,11 +31706,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FI",
     "airline_icao": null,
     "departure_airport_iata": "KEF",
@@ -33326,11 +31719,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "75W",
-        "75T"
+    "75W",
+    "75T"
     ]
-
-{
+    },
+    {
     "airline_iata": "HA",
     "airline_icao": null,
     "departure_airport_iata": "HNL",
@@ -33340,11 +31733,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HY",
     "airline_icao": null,
     "departure_airport_iata": "RIX",
@@ -33354,11 +31746,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BCN",
@@ -33368,11 +31759,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "BRU",
@@ -33382,11 +31772,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -33396,11 +31785,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -33410,11 +31798,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744",
-        "777"
+    "744",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -33424,11 +31812,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "342",
-        "346",
-        "340"
-
-{
+    "342",
+    "346",
+    "340"
+    ]
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -33438,11 +31827,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "MAN",
@@ -33452,11 +31840,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "MXP",
@@ -33466,11 +31853,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JJ",
     "airline_icao": null,
     "departure_airport_iata": "GIG",
@@ -33480,11 +31866,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JJ",
     "airline_icao": null,
     "departure_airport_iata": "GRU",
@@ -33494,11 +31879,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JJ",
     "airline_icao": null,
     "departure_airport_iata": "LIM",
@@ -33508,11 +31892,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "HND",
@@ -33522,11 +31905,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "LIM",
@@ -33536,11 +31918,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -33550,11 +31931,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "SJU",
@@ -33564,11 +31944,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -33578,11 +31957,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388",
-        "77W"
+    "388",
+    "77W"
     ]
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -33592,11 +31971,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777",
-        "74M"
+    "777",
+    "74M"
     ]
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -33606,11 +31985,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "ATH",
@@ -33620,11 +31998,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "BRU",
@@ -33634,11 +32011,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "DCA",
@@ -33648,11 +32024,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "32S"
+    "32S"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -33662,11 +32037,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -33676,11 +32050,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "PRG",
@@ -33690,11 +32063,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KU",
     "airline_icao": null,
     "departure_airport_iata": "KWI",
@@ -33704,11 +32076,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KU",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -33718,11 +32089,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KX",
     "airline_icao": null,
     "departure_airport_iata": "GCM",
@@ -33732,11 +32102,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LA",
     "airline_icao": null,
     "departure_airport_iata": "LIM",
@@ -33746,11 +32115,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LA",
     "airline_icao": null,
     "departure_airport_iata": "SCL",
@@ -33760,11 +32128,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LA",
     "airline_icao": null,
     "departure_airport_iata": "YUL",
@@ -33774,11 +32141,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -33788,11 +32154,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388",
-        "744"
+    "388",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -33802,11 +32168,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LO",
     "airline_icao": null,
     "departure_airport_iata": "WAW",
@@ -33816,11 +32181,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LR",
     "airline_icao": null,
     "departure_airport_iata": "SJO",
@@ -33830,11 +32194,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "GVA",
@@ -33844,11 +32208,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "ZRH",
@@ -33858,11 +32221,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LY",
     "airline_icao": null,
     "departure_airport_iata": "TLV",
@@ -33872,11 +32234,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744",
-        "772"
+    "744",
+    "772"
     ]
-
-{
+    },
+    {
     "airline_iata": "MS",
     "airline_icao": null,
     "departure_airport_iata": "CAI",
@@ -33886,11 +32248,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "PVG",
@@ -33900,11 +32261,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -33914,11 +32274,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OA",
     "airline_icao": null,
     "departure_airport_iata": "ATH",
@@ -33928,11 +32287,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OK",
     "airline_icao": null,
     "departure_airport_iata": "PRG",
@@ -33942,11 +32300,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OS",
     "airline_icao": null,
     "departure_airport_iata": "VIE",
@@ -33956,11 +32313,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OZ",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -33970,11 +32326,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PK",
     "airline_icao": null,
     "departure_airport_iata": "MAN",
@@ -33984,11 +32339,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -33998,11 +32352,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "DOH",
@@ -34012,11 +32365,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "RJ",
     "airline_icao": null,
     "departure_airport_iata": "AMM",
@@ -34026,11 +32378,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "340"
+    "340"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -34040,11 +32391,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SE",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -34054,11 +32404,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SN",
     "airline_icao": null,
     "departure_airport_iata": "BRU",
@@ -34068,11 +32417,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -34082,11 +32430,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -34096,11 +32443,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -34110,11 +32456,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "SVO",
@@ -34124,11 +32469,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SV",
     "airline_icao": null,
     "departure_airport_iata": "JED",
@@ -34138,11 +32482,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SV",
     "airline_icao": null,
     "departure_airport_iata": "RUH",
@@ -34152,11 +32495,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SY",
     "airline_icao": null,
     "departure_airport_iata": "MSP",
@@ -34166,11 +32508,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73G"
+    "738",
+    "73G"
     ]
-
-{
+    },
+    {
     "airline_iata": "TA",
     "airline_icao": null,
     "departure_airport_iata": "SAL",
@@ -34180,11 +32522,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321",
-        "319"
-
-{
+    "320",
+    "321",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "TA",
     "airline_icao": null,
     "departure_airport_iata": "SAP",
@@ -34194,11 +32537,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TK",
     "airline_icao": null,
     "departure_airport_iata": "IST",
@@ -34208,11 +32550,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "BOG",
@@ -34222,11 +32563,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "BRU",
@@ -34236,11 +32576,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "CAI",
@@ -34250,11 +32589,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "DUB",
@@ -34264,11 +32602,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -34278,11 +32615,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388",
-        "744"
+    "388",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "GIG",
@@ -34292,11 +32629,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "GRU",
@@ -34306,11 +32642,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "GVA",
@@ -34320,11 +32655,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "IAD",
@@ -34334,11 +32668,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -34348,11 +32681,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -34362,11 +32694,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -34376,11 +32707,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752",
-        "757"
+    "752",
+    "757"
     ]
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -34390,11 +32721,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -34404,11 +32734,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -34418,11 +32747,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "PTY",
@@ -34432,11 +32760,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738",
-        "73G"
+    "738",
+    "73G"
     ]
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "SAL",
@@ -34446,11 +32774,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "321",
-        "319"
-
-{
+    "320",
+    "321",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "SAP",
@@ -34460,11 +32789,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "SFO",
@@ -34474,11 +32802,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "SJO",
@@ -34488,11 +32815,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "SNN",
@@ -34502,11 +32829,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "VIE",
@@ -34516,11 +32842,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "WAW",
@@ -34530,11 +32855,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "ZRH",
@@ -34544,11 +32868,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UL",
     "airline_icao": null,
     "departure_airport_iata": "AUH",
@@ -34558,11 +32881,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346",
-        "345"
+    "346",
+    "345"
     ]
-
-{
+    },
+    {
     "airline_iata": "UN",
     "airline_icao": null,
     "departure_airport_iata": "DME",
@@ -34572,11 +32895,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "AMM",
@@ -34586,11 +32908,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "340"
+    "340"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "CLT",
@@ -34600,11 +32921,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "321",
-        "320"
-
-{
+    "319",
+    "321",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -34614,11 +32936,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "ICN",
@@ -34628,11 +32949,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "IST",
@@ -34642,11 +32962,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -34656,11 +32975,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "752",
-        "757"
+    "752",
+    "757"
     ]
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "NRT",
@@ -34670,11 +32989,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -34684,11 +33002,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "PHL",
@@ -34698,11 +33015,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E75"
+    "E75"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "PHX",
@@ -34712,11 +33028,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "SAL",
@@ -34726,11 +33041,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "321",
-        "319"
-
-{
+    "320",
+    "321",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "SFO",
@@ -34740,11 +33056,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "SJO",
@@ -34754,11 +33069,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319",
-        "320"
+    "319",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -34768,11 +33083,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "MAD",
@@ -34782,11 +33096,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VS",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -34796,11 +33109,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "744",
-        "346",
-
-{
+    "333",
+    "744",
+    "346"
+    ]
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "KBP",
@@ -34810,11 +33124,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VX",
     "airline_icao": null,
     "departure_airport_iata": "LAS",
@@ -34824,11 +33137,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VX",
     "airline_icao": null,
     "departure_airport_iata": "LAX",
@@ -34838,11 +33150,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VX",
     "airline_icao": null,
     "departure_airport_iata": "SFO",
@@ -34852,11 +33163,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W3",
     "airline_icao": null,
     "departure_airport_iata": "LOS",
@@ -34866,11 +33176,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "345"
+    "345"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "WS",
     "airline_icao": null,
     "departure_airport_iata": "YUL",
@@ -34880,11 +33189,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ERD"
+    "ERD"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "WS",
     "airline_icao": null,
     "departure_airport_iata": "YYZ",
@@ -34894,11 +33202,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7",
-        "ERD"
+    "CR7",
+    "ERD"
     ]
-
-{
+    },
+    {
     "airline_iata": "XL",
     "airline_icao": null,
     "departure_airport_iata": "GYE",
@@ -34908,10 +33216,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "4M",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -34921,11 +33229,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "4O",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -34935,11 +33242,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -34949,11 +33255,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "340"
+    "340"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -34963,11 +33268,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -34977,11 +33281,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "340"
+    "340"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -34991,11 +33294,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35005,11 +33307,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35019,11 +33320,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35033,11 +33333,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35047,11 +33346,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35061,11 +33359,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35075,11 +33372,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35089,11 +33385,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35103,11 +33398,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35117,11 +33411,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35131,11 +33424,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35145,11 +33437,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4",
-        "CR7"
+    "ER4",
+    "CR7"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35159,11 +33451,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35173,11 +33464,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35187,11 +33477,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ERD",
-        "CR7"
+    "ERD",
+    "CR7"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35201,11 +33491,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35215,11 +33504,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35229,11 +33517,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35243,11 +33530,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35257,11 +33543,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35271,11 +33556,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35285,11 +33569,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35299,11 +33582,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35313,11 +33595,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35327,11 +33608,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35341,11 +33621,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35355,11 +33634,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35369,11 +33647,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "762"
+    "762"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35383,11 +33660,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35397,11 +33673,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35411,11 +33686,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744",
-        "777"
+    "744",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35425,11 +33700,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35439,11 +33713,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35453,11 +33726,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "340"
+    "340"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35467,11 +33739,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35481,11 +33752,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35495,11 +33765,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757",
-        "763"
+    "757",
+    "763"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35509,11 +33779,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35523,11 +33792,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35537,11 +33805,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35551,11 +33818,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35565,11 +33831,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35579,11 +33844,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER4"
+    "ER4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35593,11 +33857,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ERD"
+    "ERD"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35607,11 +33870,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35621,11 +33883,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35635,11 +33896,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35649,11 +33909,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35663,11 +33922,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "762",
-        "763"
+    "762",
+    "763"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35677,11 +33936,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "757"
+    "738",
+    "757"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35691,11 +33950,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35705,11 +33963,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35719,11 +33976,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35733,11 +33989,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35747,11 +34002,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35761,11 +34015,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ERD"
+    "ERD"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35775,11 +34028,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35789,11 +34041,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7",
-        "ERD"
+    "CR7",
+    "ERD"
     ]
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35803,11 +34055,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35817,11 +34068,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AB",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35831,11 +34081,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AC",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35845,11 +34094,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35859,11 +34107,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35873,11 +34120,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332",
-        "772",
-        "388",
-
-{
+    "332",
+    "772",
+    "388"
+    ]
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35887,11 +34135,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35901,11 +34148,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35915,11 +34161,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35929,11 +34174,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35943,11 +34187,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35957,11 +34200,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35971,11 +34213,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35985,11 +34226,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AM",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -35999,11 +34239,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737",
-        "738"
+    "737",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "AM",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36013,11 +34253,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "762",
-        "737"
-
-{
+    "738",
+    "762",
+    "737"
+    ]
+    },
+    {
     "airline_iata": "AM",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36027,11 +34268,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AS",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36041,11 +34281,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "762",
-        "752"
+    "762",
+    "752"
     ]
-
-{
+    },
+    {
     "airline_iata": "AS",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36055,11 +34295,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AS",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36069,11 +34308,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "73H",
-        "752",
-        "738"
-
-{
+    "73H",
+    "752",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "AS",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36083,11 +34323,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "752",
-        "762",
-        "763"
-
-{
+    "752",
+    "762",
+    "763"
+    ]
+    },
+    {
     "airline_iata": "AT",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36097,11 +34338,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AV",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36111,11 +34351,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330",
-        "319"
+    "330",
+    "319"
     ]
-
-{
+    },
+    {
     "airline_iata": "AV",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36125,11 +34365,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AY",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36139,11 +34378,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36153,11 +34391,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36167,11 +34404,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332",
-        "388",
-        "767",
-
-{
+    "332",
+    "388",
+    "767"
+    ]
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36181,11 +34419,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330",
-        "772"
+    "330",
+    "772"
     ]
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36195,11 +34433,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36209,11 +34446,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "762",
-        "738"
+    "762",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36223,11 +34460,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36237,11 +34473,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36251,11 +34486,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36265,11 +34499,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36279,11 +34512,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36293,11 +34525,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36307,11 +34538,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36321,11 +34551,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36335,11 +34565,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36349,11 +34578,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36363,11 +34591,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "320"
+    "E90",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36377,11 +34605,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36391,11 +34618,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "320"
+    "E90",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36405,11 +34632,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "320"
+    "E90",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36419,11 +34646,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36433,11 +34659,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36447,11 +34672,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36461,11 +34685,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36475,11 +34698,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36489,11 +34712,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36503,11 +34725,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36517,11 +34738,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36531,11 +34752,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36545,11 +34765,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36559,11 +34778,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36573,11 +34791,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36587,11 +34804,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36601,11 +34817,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36615,11 +34830,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36629,11 +34843,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36643,11 +34857,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36657,11 +34871,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36671,11 +34885,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36685,11 +34898,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "E90"
+    "320",
+    "E90"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36699,11 +34912,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36713,11 +34925,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36727,11 +34938,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36741,11 +34951,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36755,11 +34964,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36769,11 +34977,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36783,11 +34990,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36797,11 +35003,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36811,11 +35016,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36825,11 +35029,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36839,11 +35042,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "320"
+    "E90",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36853,11 +35056,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36867,11 +35069,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36881,11 +35082,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36895,11 +35095,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36909,11 +35108,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36923,11 +35121,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36937,11 +35134,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36951,11 +35147,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36965,11 +35160,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36979,11 +35173,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -36993,11 +35186,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37007,11 +35199,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37021,11 +35212,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "320"
+    "E90",
+    "320"
     ]
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37035,11 +35226,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "B6",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37049,11 +35239,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37063,11 +35252,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37077,11 +35265,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37091,11 +35278,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37105,11 +35291,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37119,11 +35304,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "318"
+    "318"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37133,11 +35317,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744",
-        "777"
+    "744",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37147,11 +35331,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37161,11 +35344,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "343",
-        "757",
-        "346"
-
-{
+    "343",
+    "757",
+    "346"
+    ]
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37175,11 +35359,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37189,11 +35372,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BR",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37203,11 +35385,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BW",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37217,11 +35398,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BW",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37231,11 +35411,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BW",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37245,11 +35424,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BW",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37259,11 +35437,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BW",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37273,11 +35450,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37287,11 +35463,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CI",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37301,11 +35476,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CM",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37315,11 +35489,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73G"
+    "738",
+    "73G"
     ]
-
-{
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37329,11 +35503,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37343,11 +35516,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CY",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37357,11 +35529,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37371,11 +35542,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37385,11 +35555,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37399,11 +35568,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "74M",
-        "77W"
-
-{
+    "777",
+    "74M",
+    "77W"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37413,11 +35583,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37427,11 +35596,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757",
-        "M88",
-        "752",
-
-{
+    "757",
+    "M88",
+    "752"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37441,11 +35611,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37455,11 +35624,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37469,11 +35637,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37483,11 +35650,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37497,11 +35663,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73W"
+    "73W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37511,11 +35676,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "M88",
-        "319",
-        "738"
-
-{
+    "M88",
+    "319",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37525,11 +35691,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37539,11 +35704,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37553,11 +35717,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "CR9"
+    "CRJ",
+    "CR9"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37567,11 +35731,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37581,11 +35744,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332",
-        "772",
-        "388",
-
-{
+    "332",
+    "772",
+    "388"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37595,11 +35759,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37609,11 +35772,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37623,11 +35785,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "CR9"
+    "CRJ",
+    "CR9"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37637,11 +35799,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ERJ"
+    "ERJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37651,11 +35812,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "737",
-        "738"
+    "737",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37665,11 +35826,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37679,11 +35839,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37693,11 +35852,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37707,11 +35865,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37721,11 +35878,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37735,11 +35891,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37749,11 +35904,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37763,11 +35917,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "738",
-
-{
+    "320",
+    "319",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37777,11 +35932,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37791,11 +35945,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37805,11 +35958,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37819,11 +35971,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37833,11 +35984,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330",
-        "772"
+    "330",
+    "772"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37847,11 +35998,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73W",
-        "320",
-        "M88"
-
-{
+    "73W",
+    "320",
+    "M88"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37861,11 +36013,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37875,11 +36026,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37889,11 +36039,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37903,11 +36052,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ERJ"
+    "ERJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37917,11 +36065,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ERJ"
+    "ERJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37931,11 +36078,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "ERJ"
+    "CRJ",
+    "ERJ"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37945,11 +36092,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W",
-        "388"
+    "77W",
+    "388"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37959,11 +36106,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37973,11 +36119,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -37987,11 +36132,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CR7"
+    "CR7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38001,11 +36145,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38015,11 +36158,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "738",
-        "757"
-
-{
+    "73H",
+    "738",
+    "757"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38029,11 +36173,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38043,11 +36186,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38057,11 +36199,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38071,11 +36212,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38085,11 +36225,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7"
+    "CR7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38099,11 +36238,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "M88",
-        "73H"
-
-{
+    "738",
+    "M88",
+    "73H"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38113,11 +36253,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38127,11 +36266,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757",
-        "738",
-        "762",
-
-{
+    "757",
+    "738",
+    "762"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38141,11 +36281,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38155,11 +36294,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "738",
-        "73H"
-
-{
+    "320",
+    "738",
+    "73H"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38169,11 +36309,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7"
+    "CR7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38183,11 +36322,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38197,11 +36335,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38211,11 +36348,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38225,11 +36361,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38239,11 +36374,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38253,11 +36387,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38267,11 +36400,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38281,11 +36413,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR9"
+    "CR9"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38295,11 +36426,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ERJ",
-        "CRJ"
+    "ERJ",
+    "CRJ"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38309,11 +36440,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38323,11 +36453,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38337,11 +36466,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "ERJ"
+    "CRJ",
+    "ERJ"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38351,11 +36480,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73H"
+    "738",
+    "73H"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38365,11 +36494,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "CR7"
+    "CR7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38379,11 +36507,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "CR9"
+    "CRJ",
+    "CR9"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38393,11 +36521,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38407,11 +36534,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38421,11 +36547,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "CR9",
-        "ERJ"
-
-{
+    "CRJ",
+    "CR9",
+    "ERJ"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38435,11 +36562,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ",
-        "ERJ"
+    "CRJ",
+    "ERJ"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38449,11 +36576,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ERJ",
-        "CRJ"
+    "ERJ",
+    "CRJ"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38463,11 +36590,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38477,11 +36603,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38491,11 +36616,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ERJ"
+    "ERJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38505,11 +36629,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38519,11 +36642,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "752"
+    "73H",
+    "752"
     ]
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38533,11 +36656,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752"
+    "752"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38547,11 +36669,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38561,11 +36682,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H",
-        "757",
-        "320"
-
-{
+    "73H",
+    "757",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38575,11 +36697,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73H"
+    "73H"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38589,11 +36710,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7"
+    "CR7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38603,11 +36723,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38617,11 +36736,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38631,11 +36749,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38645,11 +36762,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38659,11 +36775,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "M88"
+    "M88"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38673,11 +36788,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38687,11 +36801,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38701,11 +36814,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EI",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38715,11 +36827,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EI",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38729,11 +36840,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38743,11 +36853,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W",
-        "388"
+    "77W",
+    "388"
     ]
-
-{
+    },
+    {
     "airline_iata": "EY",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38757,11 +36867,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346",
-        "345"
+    "346",
+    "345"
     ]
-
-{
+    },
+    {
     "airline_iata": "EY",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38771,11 +36881,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "FI",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38785,11 +36894,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "75W",
-        "75T"
+    "75W",
+    "75T"
     ]
-
-{
+    },
+    {
     "airline_iata": "HA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38799,11 +36908,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HY",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38813,11 +36921,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38827,11 +36934,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38841,11 +36947,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38855,11 +36960,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38869,11 +36973,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "318"
+    "318"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38883,11 +36986,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744",
-        "777"
+    "744",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38897,11 +37000,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "342",
-        "346",
-        "340"
-
-{
+    "342",
+    "346",
+    "340"
+    ]
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38911,11 +37015,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38925,11 +37028,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "IB",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38939,11 +37041,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JJ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38953,11 +37054,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JJ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38967,11 +37067,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JJ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38981,11 +37080,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -38995,11 +37093,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39009,11 +37106,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39023,11 +37119,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39037,11 +37132,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W",
-        "388"
+    "77W",
+    "388"
     ]
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39051,11 +37146,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777",
-        "74M"
+    "777",
+    "74M"
     ]
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39065,11 +37160,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39079,11 +37173,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39093,11 +37186,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39107,11 +37199,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "76W"
+    "76W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39121,11 +37212,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39135,11 +37225,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39149,11 +37238,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KU",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39163,11 +37251,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KU",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39177,11 +37264,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KX",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39191,11 +37277,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39205,11 +37290,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39219,11 +37303,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39233,11 +37316,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388",
-        "744"
+    "388",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39247,11 +37330,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LO",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39261,11 +37343,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LR",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39275,11 +37356,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-
-{
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39289,11 +37370,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39303,11 +37383,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LY",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39317,11 +37396,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772",
-        "744"
+    "772",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "MS",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39331,11 +37410,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MU",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39345,11 +37423,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "NH",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39359,11 +37436,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39373,11 +37449,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OK",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39387,11 +37462,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OS",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39401,11 +37475,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "OZ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39415,11 +37488,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PK",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39429,11 +37501,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39443,11 +37514,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39457,11 +37527,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "RJ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39471,11 +37540,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "340"
+    "340"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39485,11 +37553,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SE",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39499,11 +37566,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SN",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39513,11 +37579,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39527,11 +37592,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39541,11 +37605,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SU",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39555,11 +37618,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "764"
+    "764"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SV",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39569,11 +37631,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SV",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39583,11 +37644,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SY",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39597,11 +37657,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73G"
+    "738",
+    "73G"
     ]
-
-{
+    },
+    {
     "airline_iata": "TA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39611,11 +37671,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "319"
-
-{
+    "321",
+    "320",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "TA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39625,11 +37686,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TK",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39639,11 +37699,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39653,11 +37712,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39667,11 +37725,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39681,11 +37738,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "773"
+    "773"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39695,11 +37751,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39709,11 +37764,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388",
-        "744"
+    "388",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39723,11 +37778,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39737,11 +37791,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39751,11 +37804,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39765,11 +37817,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CRJ"
+    "CRJ"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39779,11 +37830,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39793,11 +37843,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39807,11 +37856,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "752",
-        "757"
+    "752",
+    "757"
     ]
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39821,11 +37870,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39835,11 +37883,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39849,11 +37896,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39863,11 +37909,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738",
-        "73G"
+    "738",
+    "73G"
     ]
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39877,11 +37923,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "319"
-
-{
+    "321",
+    "320",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39891,11 +37938,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39905,11 +37951,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39919,11 +37964,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39933,11 +37978,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39947,11 +37991,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39961,11 +38004,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39975,11 +38017,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -39989,11 +38030,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346",
-        "345"
+    "346",
+    "345"
     ]
-
-{
+    },
+    {
     "airline_iata": "UN",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40003,11 +38044,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40017,11 +38057,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "340"
+    "340"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40031,11 +38070,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "321"
-
-{
+    "320",
+    "319",
+    "321"
+    ]
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40045,11 +38085,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40059,11 +38098,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40073,11 +38111,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40087,11 +38124,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "752",
-        "757"
+    "752",
+    "757"
     ]
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40101,11 +38138,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40115,11 +38151,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40129,11 +38164,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E75"
+    "E75"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40143,11 +38177,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321"
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40157,11 +38190,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "321",
-        "320",
-        "319"
-
-{
+    "321",
+    "320",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40171,11 +38205,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "757"
+    "757"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "US",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40185,11 +38218,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "320",
-        "319"
+    "320",
+    "319"
     ]
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40199,11 +38232,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UX",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40213,11 +38245,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "767"
+    "767"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VS",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40227,11 +38258,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "744",
-        "346",
-
-{
+    "333",
+    "744",
+    "346"
+    ]
+    },
+    {
     "airline_iata": "VV",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40241,11 +38273,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VX",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40255,11 +38286,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VX",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40269,11 +38299,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VX",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40283,11 +38312,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W3",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40297,11 +38325,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "345"
+    "345"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "WS",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40311,11 +38338,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ERD"
+    "ERD"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "WS",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40325,11 +38351,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7",
-        "ERD"
+    "CR7",
+    "ERD"
     ]
-
-{
+    },
+    {
     "airline_iata": "XL",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -40339,10 +38365,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-{
+    },
+    {
     "airline_iata": "7V",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40352,11 +38378,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ATR"
+    "ATR"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40366,11 +38391,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744",
-        "777"
+    "744",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40380,11 +38405,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40394,11 +38418,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40408,11 +38431,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40422,11 +38444,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40436,11 +38457,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733",
-        "734"
+    "733",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40450,11 +38471,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733",
-        "734"
+    "733",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40464,11 +38485,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733",
-        "734"
+    "733",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40478,11 +38499,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744",
-        "777"
+    "744",
+    "777"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40492,11 +38513,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "734",
-        "733"
+    "734",
+    "733"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40506,11 +38527,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40520,11 +38540,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733",
-        "734"
+    "733",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40534,11 +38554,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "734",
-        "733"
+    "734",
+    "733"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40548,11 +38568,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733",
-        "734"
+    "733",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "BP",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40562,11 +38582,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "AT5"
+    "AT5"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BP",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40576,11 +38595,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "AT5"
+    "AT5"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BP",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40590,11 +38608,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "AT7",
-        "AT5"
+    "AT7",
+    "AT5"
     ]
-
-{
+    },
+    {
     "airline_iata": "BP",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40604,11 +38622,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "146",
-        "AT5"
+    "146",
+    "AT5"
     ]
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40618,11 +38636,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40632,11 +38649,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W",
-        "744"
+    "77W",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "D6",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40646,11 +38663,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "727"
+    "727"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "D6",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40660,11 +38676,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "732"
+    "732"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "D6",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40674,11 +38689,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40688,11 +38702,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77L"
+    "77L"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DT",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40702,11 +38715,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40716,11 +38728,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EO",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40730,11 +38741,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "762"
+    "762"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ET",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40744,11 +38754,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EY",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40758,11 +38767,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EY",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40772,11 +38780,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HM",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40786,11 +38793,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JE",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40800,11 +38806,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JE",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40814,11 +38819,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40828,11 +38832,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40842,11 +38845,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KQ",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40856,11 +38858,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "73W",
-        "733",
-
-{
+    "738",
+    "73W",
+    "733"
+    ]
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40870,11 +38873,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40884,11 +38886,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40898,11 +38899,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346",
-        "332",
-        "343"
-
-{
+    "346",
+    "332",
+    "343"
+    ]
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40912,11 +38914,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LY",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40926,11 +38927,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MD",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40940,11 +38940,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MK",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40954,11 +38953,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332",
-        "343",
-        "319"
-
-{
+    "332",
+    "343",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "MK",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40968,11 +38968,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MN",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40982,11 +38981,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "734"
+    "738",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "MN",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -40996,11 +38995,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "734",
-        "738"
+    "734",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "MN",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41010,11 +39009,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "734"
+    "738",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "MS",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41024,11 +39023,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "PW",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41038,11 +39036,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41052,11 +39049,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "343",
-        "346"
+    "343",
+    "346"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41066,11 +39063,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QM",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41080,11 +39076,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "732"
+    "732"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41094,11 +39089,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41108,11 +39102,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W",
-        "77L"
+    "77W",
+    "77L"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41122,11 +39116,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41136,11 +39129,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41150,11 +39142,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41164,11 +39155,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41178,11 +39168,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7",
-        "DH4",
-        "CR2"
-
-{
+    "CR7",
+    "DH4",
+    "CR2"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41192,11 +39183,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41206,11 +39196,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41220,11 +39209,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41234,11 +39222,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41248,11 +39235,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "AR8"
+    "AR8"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41262,11 +39248,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41276,11 +39261,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333"
+    "333"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41290,11 +39274,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "346",
-        "332",
-
-{
+    "738",
+    "346",
+    "332"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41304,11 +39289,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "738"
+    "319",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41318,11 +39303,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41332,11 +39316,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "738",
-        "320"
-
-{
+    "319",
+    "738",
+    "320"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41346,11 +39331,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41360,11 +39344,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41374,11 +39357,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "738"
+    "319",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41388,11 +39371,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4",
-        "CR7",
-        "CR2"
-
-{
+    "DH4",
+    "CR7",
+    "CR2"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41402,11 +39386,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41416,11 +39399,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41430,11 +39412,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "343"
+    "738",
+    "343"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41444,11 +39426,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41458,11 +39439,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41472,11 +39452,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4",
-        "CR2"
+    "DH4",
+    "CR2"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41486,11 +39466,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7",
-        "DH4"
+    "CR7",
+    "DH4"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41500,11 +39480,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332",
-        "343",
-        "342"
-
-{
+    "332",
+    "343",
+    "342"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41514,11 +39495,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41528,11 +39508,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41542,11 +39521,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "319",
-        "332"
-
-{
+    "738",
+    "319",
+    "332"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41556,11 +39536,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3",
-        "AR8"
+    "ER3",
+    "AR8"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41570,11 +39550,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41584,11 +39563,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4",
-        "CR7",
-        "CR2"
-
-{
+    "DH4",
+    "CR7",
+    "CR2"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41598,11 +39578,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41612,11 +39591,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41626,11 +39604,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343",
-        "332",
-        "346"
-
-{
+    "343",
+    "332",
+    "346"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41640,11 +39619,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "332"
+    "738",
+    "332"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41654,11 +39633,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343",
-        "346"
+    "343",
+    "346"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41668,11 +39647,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "319"
+    "738",
+    "319"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41682,11 +39661,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41696,11 +39674,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41710,11 +39687,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41724,11 +39700,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E90",
-        "DH4",
-        "737"
-
-{
+    "E90",
+    "DH4",
+    "737"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41738,11 +39715,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3",
-        "AR8",
-        "J41"
-
-{
+    "ER3",
+    "AR8",
+    "J41"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41752,11 +39730,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41766,11 +39743,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332",
-        "343",
-        "319"
-
-{
+    "332",
+    "343",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41780,11 +39758,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41794,11 +39771,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41808,11 +39784,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3",
-        "AR8"
+    "ER3",
+    "AR8"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41822,11 +39798,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346",
-        "332",
-        "343"
-
-{
+    "346",
+    "332",
+    "343"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41836,11 +39813,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "738"
+    "319",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41850,11 +39827,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41864,11 +39840,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3",
-        "AR8"
+    "ER3",
+    "AR8"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41878,11 +39854,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41892,11 +39867,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343",
-        "346"
+    "343",
+    "346"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41906,11 +39881,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "J41"
+    "J41"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41920,11 +39894,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "738"
+    "319",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41934,11 +39908,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7"
+    "CR7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41948,11 +39921,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41962,11 +39934,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41976,11 +39947,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3",
-        "J41"
+    "ER3",
+    "J41"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -41990,11 +39961,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "AR8",
-        "J41"
+    "AR8",
+    "J41"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42004,11 +39975,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42018,11 +39988,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42032,11 +40001,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42046,11 +40014,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "AR8"
+    "AR8"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42060,11 +40027,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "AR8"
+    "AR8"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42074,11 +40040,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42088,11 +40053,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42102,11 +40066,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42116,11 +40079,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "319"
+    "738",
+    "319"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42130,11 +40093,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR2"
+    "CR2"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42144,11 +40106,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7"
+    "CR7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42158,11 +40119,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42172,11 +40132,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42186,11 +40145,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SV",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42200,11 +40158,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SW",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42214,11 +40171,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "735",
-        "319",
-        "ERJ"
-
-{
+    "735",
+    "319",
+    "ERJ"
+    ]
+    },
+    {
     "airline_iata": "TG",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42228,11 +40186,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TK",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42242,11 +40199,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TK",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42256,11 +40212,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TM",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42270,11 +40225,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TM",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42284,11 +40238,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TM",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42298,11 +40251,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "DH4",
-        "735"
-
-{
+    "E90",
+    "DH4",
+    "735"
+    ]
+    },
+    {
     "airline_iata": "TM",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42312,11 +40266,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TM",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42326,11 +40279,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42340,11 +40292,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42354,11 +40305,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UL",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42368,11 +40318,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UU",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42382,11 +40331,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42396,11 +40344,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VA",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42410,11 +40357,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VS",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42424,11 +40370,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W3",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42438,11 +40383,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "WB",
     "airline_icao": null,
     "departure_airport_iata": "JNB",
@@ -42452,10 +40396,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-{
+    },
+    {
     "airline_iata": "7V",
     "airline_icao": null,
     "departure_airport_iata": "VNX",
@@ -42465,11 +40409,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "ATR"
+    "ATR"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AA",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -42479,11 +40422,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777",
-        "744"
+    "777",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "AF",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -42493,11 +40436,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AI",
     "airline_icao": null,
     "departure_airport_iata": "BOM",
@@ -42507,11 +40449,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "AUH",
@@ -42521,11 +40462,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "AZ",
     "airline_icao": null,
     "departure_airport_iata": "CDG",
@@ -42535,11 +40475,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "CPT",
@@ -42549,11 +40488,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "734",
-        "733"
+    "734",
+    "733"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "DUR",
@@ -42563,11 +40502,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "734",
-        "733"
+    "734",
+    "733"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "HRE",
@@ -42577,11 +40516,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733",
-        "734"
+    "733",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -42591,11 +40530,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777",
-        "744"
+    "777",
+    "744"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "LVI",
@@ -42605,11 +40544,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "734",
-        "733"
+    "734",
+    "733"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "MRU",
@@ -42619,11 +40558,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "PLZ",
@@ -42633,11 +40571,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733",
-        "734"
+    "733",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "VFA",
@@ -42647,11 +40585,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "734",
-        "733"
+    "734",
+    "733"
     ]
-
-{
+    },
+    {
     "airline_iata": "BA",
     "airline_icao": null,
     "departure_airport_iata": "WDH",
@@ -42661,11 +40599,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733",
-        "734"
+    "733",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "BP",
     "airline_icao": null,
     "departure_airport_iata": "BBK",
@@ -42675,11 +40613,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "AT7"
+    "AT7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BP",
     "airline_icao": null,
     "departure_airport_iata": "FRW",
@@ -42689,11 +40626,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "AT5"
+    "AT5"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "BP",
     "airline_icao": null,
     "departure_airport_iata": "GBE",
@@ -42703,11 +40639,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "146",
-        "AT7",
-        "AT5"
-
-{
+    "146",
+    "AT7",
+    "AT5"
+    ]
+    },
+    {
     "airline_iata": "BP",
     "airline_icao": null,
     "departure_airport_iata": "MUB",
@@ -42717,11 +40654,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "AT5",
-        "146"
+    "AT5",
+    "146"
     ]
-
-{
+    },
+    {
     "airline_iata": "CA",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -42731,11 +40668,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "CX",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -42745,11 +40681,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744",
-        "77W"
+    "744",
+    "77W"
     ]
-
-{
+    },
+    {
     "airline_iata": "D6",
     "airline_icao": null,
     "departure_airport_iata": "BZV",
@@ -42759,11 +40695,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "727"
+    "727"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "D6",
     "airline_icao": null,
     "departure_airport_iata": "NLA",
@@ -42773,11 +40708,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "732"
+    "732"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "D6",
     "airline_icao": null,
     "departure_airport_iata": "RUN",
@@ -42787,11 +40721,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "737"
+    "737"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DL",
     "airline_icao": null,
     "departure_airport_iata": "ATL",
@@ -42801,11 +40734,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77L"
+    "77L"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "DT",
     "airline_icao": null,
     "departure_airport_iata": "LAD",
@@ -42815,11 +40747,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EK",
     "airline_icao": null,
     "departure_airport_iata": "DXB",
@@ -42829,11 +40760,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EO",
     "airline_icao": null,
     "departure_airport_iata": "FBM",
@@ -42843,11 +40773,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "762"
+    "762"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ET",
     "airline_icao": null,
     "departure_airport_iata": "ADD",
@@ -42857,11 +40786,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EY",
     "airline_icao": null,
     "departure_airport_iata": "AUH",
@@ -42871,11 +40799,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "EY",
     "airline_icao": null,
     "departure_airport_iata": "SEZ",
@@ -42885,11 +40812,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "HM",
     "airline_icao": null,
     "departure_airport_iata": "SEZ",
@@ -42899,11 +40825,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JE",
     "airline_icao": null,
     "departure_airport_iata": "CPT",
@@ -42913,11 +40838,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "JE",
     "airline_icao": null,
     "departure_airport_iata": "DUR",
@@ -42927,11 +40851,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KE",
     "airline_icao": null,
     "departure_airport_iata": "NBO",
@@ -42941,11 +40864,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KL",
     "airline_icao": null,
     "departure_airport_iata": "AMS",
@@ -42955,11 +40877,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "KQ",
     "airline_icao": null,
     "departure_airport_iata": "NBO",
@@ -42969,11 +40890,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "73W",
-        "738",
-        "733",
-
-{
+    "73W",
+    "738",
+    "733"
+    ]
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -42983,11 +40905,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -42997,11 +40918,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LH",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -43011,11 +40931,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "343",
-        "346",
-        "332"
-
-{
+    "343",
+    "346",
+    "332"
+    ]
+    },
+    {
     "airline_iata": "LX",
     "airline_icao": null,
     "departure_airport_iata": "ZRH",
@@ -43025,11 +40946,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "LY",
     "airline_icao": null,
     "departure_airport_iata": "TLV",
@@ -43039,11 +40959,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "763"
+    "763"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MD",
     "airline_icao": null,
     "departure_airport_iata": "TNR",
@@ -43053,11 +40972,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MK",
     "airline_icao": null,
     "departure_airport_iata": "MRU",
@@ -43067,11 +40985,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332",
-        "343",
-        "319"
-
-{
+    "332",
+    "343",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "MK",
     "airline_icao": null,
     "departure_airport_iata": "MRU",
@@ -43081,11 +41000,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "MN",
     "airline_icao": null,
     "departure_airport_iata": "CPT",
@@ -43095,11 +41013,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "734"
+    "738",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "MN",
     "airline_icao": null,
     "departure_airport_iata": "DUR",
@@ -43109,11 +41027,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "734"
+    "738",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "MN",
     "airline_icao": null,
     "departure_airport_iata": "GRJ",
@@ -43123,11 +41041,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "734"
+    "738",
+    "734"
     ]
-
-{
+    },
+    {
     "airline_iata": "MS",
     "airline_icao": null,
     "departure_airport_iata": "CAI",
@@ -43137,11 +41055,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "333",
-        "330"
+    "333",
+    "330"
     ]
-
-{
+    },
+    {
     "airline_iata": "PW",
     "airline_icao": null,
     "departure_airport_iata": "DAR",
@@ -43151,11 +41069,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "PER",
@@ -43165,11 +41082,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346",
-        "343"
+    "346",
+    "343"
     ]
-
-{
+    },
+    {
     "airline_iata": "QF",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -43179,11 +41096,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QM",
     "airline_icao": null,
     "departure_airport_iata": "BLZ",
@@ -43193,11 +41109,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "732"
+    "732"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "CPT",
@@ -43207,11 +41122,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "QR",
     "airline_icao": null,
     "departure_airport_iata": "DOH",
@@ -43221,11 +41135,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "77W",
-        "77L"
+    "77W",
+    "77L"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "ACC",
@@ -43235,11 +41149,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "ADD",
@@ -43249,11 +41162,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "APL",
@@ -43263,11 +41175,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "BEW",
@@ -43277,11 +41188,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "BFN",
@@ -43291,11 +41201,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4",
-        "CR7",
-        "CR2"
-
-{
+    "DH4",
+    "CR7",
+    "CR2"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "BJM",
@@ -43305,11 +41216,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "BKK",
@@ -43319,11 +41229,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "BLZ",
@@ -43333,11 +41242,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "BOM",
@@ -43347,11 +41255,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "BUQ",
@@ -43361,11 +41268,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "AR8"
+    "AR8"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "BZV",
@@ -43375,11 +41281,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "CAI",
@@ -43389,11 +41294,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "333",
-        "330"
+    "333",
+    "330"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "CPT",
@@ -43403,11 +41308,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "346",
-        "332",
-
-{
+    "738",
+    "346",
+    "332"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "DAR",
@@ -43417,11 +41323,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "738"
+    "319",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "DKR",
@@ -43431,11 +41337,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "DUR",
@@ -43445,11 +41350,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "319",
-        "738"
-
-{
+    "320",
+    "319",
+    "738"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "DXB",
@@ -43459,11 +41365,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "77W"
+    "77W"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "EBB",
@@ -43473,11 +41378,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "ELS",
@@ -43487,11 +41391,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "738"
+    "319",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "ELS",
@@ -43501,11 +41405,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4",
-        "CR7",
-        "CR2"
-
-{
+    "DH4",
+    "CR7",
+    "CR2"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "EZE",
@@ -43515,11 +41420,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "FBM",
@@ -43529,11 +41433,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "733"
+    "733"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "FIH",
@@ -43543,11 +41446,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "343"
+    "738",
+    "343"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -43557,11 +41460,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "FRA",
@@ -43571,11 +41473,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "388"
+    "388"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "GBE",
@@ -43585,11 +41486,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4",
-        "CR2"
+    "DH4",
+    "CR2"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "GRJ",
@@ -43599,11 +41500,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7",
-        "DH4"
+    "CR7",
+    "DH4"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "GRU",
@@ -43613,11 +41514,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343",
-        "332",
-        "342"
-
-{
+    "343",
+    "332",
+    "342"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "HDS",
@@ -43627,11 +41529,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "HKG",
@@ -43641,11 +41542,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "HRE",
@@ -43655,11 +41555,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "319",
-        "332"
-
-{
+    "738",
+    "319",
+    "332"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "HRE",
@@ -43669,11 +41570,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3",
-        "AR8"
+    "ER3",
+    "AR8"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -43683,11 +41584,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "KIM",
@@ -43697,11 +41597,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4",
-        "CR7",
-        "CR2"
-
-{
+    "DH4",
+    "CR7",
+    "CR2"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "LAD",
@@ -43711,11 +41612,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "LBV",
@@ -43725,11 +41625,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -43739,11 +41638,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346",
-        "332",
-        "343"
-
-{
+    "346",
+    "332",
+    "343"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "LLW",
@@ -43753,11 +41653,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "332"
+    "738",
+    "332"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "LOS",
@@ -43767,11 +41667,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343",
-        "346"
+    "343",
+    "346"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "LUN",
@@ -43781,11 +41681,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "319"
+    "738",
+    "319"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "LUN",
@@ -43795,11 +41695,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "LVI",
@@ -43809,11 +41708,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "MPM",
@@ -43823,11 +41721,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "MPM",
@@ -43837,11 +41734,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "E90",
-        "DH4",
-        "737"
-
-{
+    "E90",
+    "DH4",
+    "737"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "MQP",
@@ -43851,11 +41749,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3",
-        "AR8",
-        "J41"
-
-{
+    "ER3",
+    "AR8",
+    "J41"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "MRU",
@@ -43865,11 +41764,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "MRU",
@@ -43879,11 +41777,12 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332",
-        "343",
-        "319"
-
-{
+    "332",
+    "343",
+    "319"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "MSU",
@@ -43893,11 +41792,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "MTS",
@@ -43907,11 +41805,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "MUB",
@@ -43921,11 +41818,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3",
-        "AR8"
+    "ER3",
+    "AR8"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "MUC",
@@ -43935,11 +41832,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "343",
-        "346",
-        "332"
-
-{
+    "343",
+    "346",
+    "332"
+    ]
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "NBO",
@@ -43949,11 +41847,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "738"
+    "319",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "NLA",
@@ -43963,11 +41861,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "NLA",
@@ -43977,11 +41874,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3",
-        "AR8"
+    "ER3",
+    "AR8"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "PEK",
@@ -43991,11 +41888,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "PER",
@@ -44005,11 +41901,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346",
-        "343"
+    "346",
+    "343"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "PHW",
@@ -44019,11 +41915,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "J41"
+    "J41"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "PLZ",
@@ -44033,11 +41928,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738",
-        "319"
+    "738",
+    "319"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "PLZ",
@@ -44047,11 +41942,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7"
+    "CR7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "PNR",
@@ -44061,11 +41955,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "POL",
@@ -44075,11 +41968,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "PTG",
@@ -44089,11 +41981,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3",
-        "J41"
+    "ER3",
+    "J41"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "PZB",
@@ -44103,11 +41995,11 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "AR8",
-        "J41"
+    "AR8",
+    "J41"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "RCB",
@@ -44117,11 +42009,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -44131,11 +42022,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "SYD",
@@ -44145,11 +42035,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "744"
+    "744"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "TET",
@@ -44159,11 +42048,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "AR8"
+    "AR8"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "TNR",
@@ -44173,11 +42061,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "AR8"
+    "AR8"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "UTN",
@@ -44187,11 +42074,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "UTT",
@@ -44201,11 +42087,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "ER3"
+    "ER3"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "VFA",
@@ -44215,11 +42100,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319"
+    "319"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "WDH",
@@ -44229,11 +42113,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "738"
+    "319",
+    "738"
     ]
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "WDH",
@@ -44243,11 +42127,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR2"
+    "CR2"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "WVB",
@@ -44257,11 +42140,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "CR7"
+    "CR7"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SA",
     "airline_icao": null,
     "departure_airport_iata": "ZRH",
@@ -44271,11 +42153,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "CPT",
@@ -44285,11 +42166,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SQ",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -44299,11 +42179,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SV",
     "airline_icao": null,
     "departure_airport_iata": "JED",
@@ -44313,11 +42192,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "SW",
     "airline_icao": null,
     "departure_airport_iata": "WDH",
@@ -44327,11 +42205,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "319",
-        "ERJ",
-        "735"
-
-{
+    "319",
+    "ERJ",
+    "735"
+    ]
+    },
+    {
     "airline_iata": "TG",
     "airline_icao": null,
     "departure_airport_iata": "BKK",
@@ -44341,11 +42220,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "777"
+    "777"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TK",
     "airline_icao": null,
     "departure_airport_iata": "CPT",
@@ -44355,11 +42233,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TK",
     "airline_icao": null,
     "departure_airport_iata": "IST",
@@ -44369,11 +42246,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "330"
+    "330"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TM",
     "airline_icao": null,
     "departure_airport_iata": "BEW",
@@ -44383,11 +42259,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TM",
     "airline_icao": null,
     "departure_airport_iata": "INH",
@@ -44397,11 +42272,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TM",
     "airline_icao": null,
     "departure_airport_iata": "MPM",
@@ -44411,11 +42285,12 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90",
-        "DH4",
-        "735"
-
-{
+    "E90",
+    "DH4",
+    "735"
+    ]
+    },
+    {
     "airline_iata": "TM",
     "airline_icao": null,
     "departure_airport_iata": "TET",
@@ -44425,11 +42300,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "E90"
+    "E90"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "TM",
     "airline_icao": null,
     "departure_airport_iata": "VNX",
@@ -44439,11 +42313,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "DH4"
+    "DH4"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "DKR",
@@ -44453,11 +42326,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "343"
+    "343"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UA",
     "airline_icao": null,
     "departure_airport_iata": "JFK",
@@ -44467,11 +42339,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UL",
     "airline_icao": null,
     "departure_airport_iata": "AUH",
@@ -44481,11 +42352,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "332"
+    "332"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "UU",
     "airline_icao": null,
     "departure_airport_iata": "RUN",
@@ -44495,11 +42365,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VA",
     "airline_icao": null,
     "departure_airport_iata": "CPT",
@@ -44509,11 +42378,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VA",
     "airline_icao": null,
     "departure_airport_iata": "SIN",
@@ -44523,11 +42391,10 @@
     "codeshare": true,
     "transfers": 0,
     "planes": [
-        "772"
+    "772"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "VS",
     "airline_icao": null,
     "departure_airport_iata": "LHR",
@@ -44537,11 +42404,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "346"
+    "346"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W3",
     "airline_icao": null,
     "departure_airport_iata": "LOS",
@@ -44551,11 +42417,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "WB",
     "airline_icao": null,
     "departure_airport_iata": "KGL",
@@ -44565,13 +42430,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "738"
+    "738"
     ]
-},
-
-
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "TSR",
@@ -44581,11 +42443,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "VNO",
@@ -44595,11 +42456,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "W6",
     "airline_icao": null,
     "departure_airport_iata": "WMI",
@@ -44609,11 +42469,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320"
+    "320"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZB",
     "airline_icao": null,
     "departure_airport_iata": "BHX",
@@ -44623,11 +42482,10 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "734"
+    "734"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZB",
     "airline_icao": null,
     "departure_airport_iata": "LGW",
@@ -44637,12 +42495,11 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "320",
-        "321"
+    "320",
+    "321"
     ]
-},
-
-{
+    },
+    {
     "airline_iata": "ZB",
     "airline_icao": null,
     "departure_airport_iata": "MAN",
@@ -44652,9 +42509,8 @@
     "codeshare": false,
     "transfers": 0,
     "planes": [
-        "321",
-        "320"
+    "321",
+    "320"
     ]
-
-
 }
+]
