@@ -5,7 +5,6 @@ class fligthPathModel{
 
     getFlight(req){
         let origin=req.query.origin;
-        console.log(origin);
         let destiny= req.query.destiny;
         return routes.filter(element => element.departure_airport_iata==origin && element.arrival_airport_iata==destiny);
     }

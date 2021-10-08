@@ -12,3 +12,42 @@ GET http://localhost:3000/api/cities
 
 ### Countries codes
 GET http://localhost:3000/api/countries
+################################
+POST http://localhost:3000/api/user/register
+Content-Type: application/json
+
+{
+    "userId": "",
+    "username":"user2",
+    "password":"user2",
+    "rol":"user",
+    "routes":[{}]
+
+}
+
+################################
+POST http://localhost:3000/api/user/register
+Content-Type: application/json
+
+{
+    "userId": "",
+    "username":"user3",
+    "password":"user3",
+    "rol":"user",
+    "routes":[{}]
+
+}
+
+################################
+POST http://localhost:3000/api/user/login
+Content-Type: application/json
+
+{
+    "userId": "",
+    "username":"user3",
+    "password":"user3",
+    "rol":"user",
+    "routes":[{}]
+
+}
+

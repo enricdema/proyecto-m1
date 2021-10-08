@@ -1,6 +1,6 @@
 import Router from "express";
 
-userFPRoute= new Router();
+userFPRoute= Router();
 
 
 userFPRoute.route('/fligthPaths')
