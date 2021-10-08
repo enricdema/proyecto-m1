@@ -1,2 +1,14 @@
-
+### Routes
 GET http://localhost:3000/api/fligthPaths?origin=BCN&destiny=CMN
+
+### Airports codes
+GET http://localhost:3000/api/airports
+
+### Airline codes
+GET http://localhost:3000/api/airlines
+
+### Cities codes
+GET http://localhost:3000/api/cities
+
+### Countries codes
+GET http://localhost:3000/api/countries

@@ -1,9 +1,10 @@
 import Router from "express";
+import airportController from "../controller/airportController.js";
 
-airportRoute= new Router();
+const airportRoute = new Router();
 
 airportRoute.route('/airports')
-    .get(airportsController.getCodes);
+    .get(airportController.getAirportCodes);
 
 
 export default airportRoute;

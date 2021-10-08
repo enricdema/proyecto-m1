@@ -1,6 +1,7 @@
 import Router from "express";
+import countriesController from "../controller/countriesController.js";
 
-countriesRoute= new Router();
+const countriesRoute =new Router();
 
 countriesRoute.route('/countries')
     .get(countriesController.getCountriesCodes);

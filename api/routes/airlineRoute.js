@@ -1,9 +1,9 @@
 import Router from "express";
+import airlineController from "../controller/airlineController.js";
 
-airlineRoute= new Router();
+const airlineRoute = new Router();
 
-airlineRoute.route('/airline')
-    .get(airlineController.getCodes);
-
+airlineRoute.route('/airlines')
+    .get(airlineController.getAirlineCodes);
 
 export default airlineRoute;

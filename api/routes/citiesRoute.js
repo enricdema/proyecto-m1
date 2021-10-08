@@ -1,9 +1,11 @@
 import Router from "express";
+import citiesController from "../controller/citiesController.js";
 
-citiesRoute= new Router();
+const citiesRoute = new Router();
+
 
 citiesRoute.route('/cities')
-    .get(citiesController.getCitiesCode);
+    .get(citiesController.getCitiesCodes);
 
 
 export default citiesRoute;
