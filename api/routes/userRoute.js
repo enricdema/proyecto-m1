@@ -1,16 +1,14 @@
 import Router from "express";
+import userController from'../controller/userController.js'
 
-userRoute= new Router();
 
+const userRoute= new Router();
 
-userRoute.route('/user/:id')
-    .get(userController.getUser); 
-
-userRoute.route('/user/register')
+userRoute.route('/register')
     .post(userController.register); 
 
-userRoute.route('/user/login')
-    .post(userController.login);
+userRoute.route('/login')
+     .post(userController.login);
 
 
 export default userRoute;

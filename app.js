@@ -5,7 +5,7 @@ import fligthPathRoute from './api/routes/fligthPathRoute.js';
 // import airportRoute from './api/routes/airportRoute.js'; 
 // import citiesRoute from './api/routes/citiesRoute.js'
 // import countriesRoute from './api/routes/countriesRoute.js'
-// import userRoute from './api/routes/userRoute.js'; 
+import userRoute from './api/routes/userRoute.js'; 
 // import userFPRoute from './api/routes/userFPRoute.js';
 //import errorRoute from './route/errorRoutes.js'
 //import clientErrorHandle from './middleware/errorHandler.js'
@@ -16,7 +16,7 @@ app.use(express.json());
 
 app.use(express.static('views'));
 
-// app.use('/user',userRoute);
+app.use('/api/user',userRoute);
 // app.use('/airlines',airlineRoute);
 // app.use('/airports',airportRoute);
 // app.use('/cities',citiesRoute);
