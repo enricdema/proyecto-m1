@@ -1,14 +1,15 @@
 import Router from "express";
+import saveRoute from '../controller/userFP/postFP.js'
 
-userFPRoute= Router();
+const userFPRoute= new Router();
 
 
-userFPRoute.route('/fligthPaths')
-    .get(userFPController.getRoutes); 
-userFPRoute.route('/fligthPaths')
-    .post(userFPController.postRoute); 
-userFPRoute.route('/fligthPaths')
-    .delete(userFPController.deleteRoute);  
+// userFPRoute.route('/fligthPathsS')
+//     .get(userFPController.getRoutes); 
+userFPRoute.route('/flightpaths')
+    .post(saveRoute.saveRoute); 
+// userFPRoute.route('/fligthPathsS')
+//     .delete(userFPController.deleteRoute);  
 
 
 export default userFPRoute;

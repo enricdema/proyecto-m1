@@ -11,7 +11,7 @@ import countriesRoute from './api/routes/countriesRoute.js';
 // import citiesRoute from './api/routes/citiesRoute.js'
 // import countriesRoute from './api/routes/countriesRoute.js'
 import userRoute from './api/routes/userRoute.js'; 
-// import userFPRoute from './api/routes/userFPRoute.js';
+import userFPRoute from './api/routes/userFPRoute.js';
 //import errorRoute from './route/errorRoutes.js'
 //import clientErrorHandle from './middleware/errorHandler.js'
 
@@ -31,7 +31,7 @@ app.use('/api/user',userRoute);
 // app.use('/airports',airportRoute);
 // app.use('/cities',citiesRoute);
 // app.use('/contries',countriesRoute);
-// app.use('/rutasUsuario',userFPRoute);
+//app.use('/api',userFPRoute);
 app.use('/api',fligthPathRoute);
 //app.use('/admin',adminRoute);
 

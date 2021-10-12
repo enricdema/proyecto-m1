@@ -1,5 +1,6 @@
 import User from '../model/userModel.js'
 import HttpError from 'http-errors'
+import countriesController from './countriesController.js';
 
 const register = (req, res, next) => {
     try{
@@ -36,10 +37,47 @@ const login = (req, res,next) => {
             next(HttpError(400,{message:'error user or password'}))
         else res.status(200).json(result);
     }
-
-
-
 }
 
+const saveroute = (req,res,next) =>{
+    try {
+        const body=req.body;
+        if(!body){
+            next(HttpError(400,{message: 'Invalid routes'}))
+        }
+        else{
+            User.saveRoute(body);
+            res.status(201).json(body);
+        }
+    } catch (error) {
+        next(HttpError(400,{message: 'Invalid routes'}))
+        
+    }
+}
+const checkroute = (req,res,next) =>{
+    try {
+            const body=User.checkroute();
+            res.status(201).json(body);
+        
+    } catch (error) {
+        next(HttpError(400,{message: 'Invalid routes'}))
+        
+    }
+}
+const deleteroute = (req,res,next) =>{
+    try {
+        const body=req.body;
+        if(!body){
+            next(HttpError(400,{message: 'Invalid routes TO DELETE'}))
+        }
+        else{
+            User.deleteroute(body);
+            res.status(201).json(body);
+        }
+    } catch (error) {
+        next(HttpError(400,{message: 'Invalid routes'}))
+        
+    }
+}
 
-export default{register,login};
+export default{register,login,saveroute,checkroute,deleteroute};
